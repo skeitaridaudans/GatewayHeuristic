@@ -1,0 +1,3074 @@
+
+//Evaluation SUM
+running scenario: scenarios/sc1/AcrosstheCape.map.scen
+ERROR_MISMATCHED_VALUES - Path cost: 81.1543 - optimal cost: 80.5685 - start: (708,63) - goal: (753,122)
+ERROR_MISMATCHED_VALUES - Path cost: 118.698 - optimal cost: 117.87 - start: (83,236) - goal: (100,126)
+ERROR_MISMATCHED_VALUES - Path cost: 200.534 - optimal cost: 199.948 - start: (355,22) - goal: (489,160)
+
+
+
+
+
+
+
+//EVALUATION GATE DISTANCE ONLY
+running scenario: scenarios/sc1/Aftershock.map.scen
+
+running scenario: scenarios/sc1/Aftershock.map.scen
+
+
+running scenario: scenarios/sc1/Archipelago.map.scen
+
+running scenario: scenarios/sc1/Archipelago.map.scen
+
+
+running scenario: scenarios/sc1/ArcticStation.map.scen
+
+running scenario: scenarios/sc1/ArcticStation.map.scen
+
+
+running scenario: scenarios/sc1/Aurora.map.scen
+
+//////////////////////ERRORS IN OCTILE TOO!!!!!////////////////////////////
+running scenario: scenarios/sc1/Backwoods.map.scen
+ERROR_MISMATCHED_VALUES - Path cost: 593.044 - optimal cost: 593.63 - start: (14,48) - goal: (349,359)
+
+
+running scenario: scenarios/sc1/BigGameHunters.map.scen
+
+
+running scenario: scenarios/sc1/BlackLotus.map.scen
+
+
+running scenario: scenarios/sc1/BlastFurnace.map.scen
+ERROR_MISMATCHED_VALUES - Path cost: 593.044 - optimal cost: 593.63 - start: (14,48) - goal: (349,359)
+ERROR_MISMATCHED_VALUES - Path cost: 593.044 - optimal cost: 593.63 - start: (14,48) - goal: (349,359)
+ERROR_MISMATCHED_VALUES - Path cost: 593.044 - optimal cost: 593.63 - start: (14,48) - goal: (349,359)
+ERROR_MISMATCHED_VALUES - Path cost: 593.044 - optimal cost: 593.63 - start: (14,48) - goal: (349,359)
+ERROR_MISMATCHED_VALUES - Path cost: 593.044 - optimal cost: 593.63 - start: (14,48) - goal: (349,359)
+ERROR_MISMATCHED_VALUES - Path cost: 593.044 - optimal cost: 593.63 - start: (14,48) - goal: (349,359)
+ERROR_MISMATCHED_VALUES - Path cost: 593.044 - optimal cost: 593.63 - start: (14,48) - goal: (349,359)
+
+running scenario: scenarios/sc1/AcrosstheCape.map.scen
+
+running scenario: scenarios/sc1/AcrosstheCape.map.scen
+ERROR_MISMATCHED_VALUES - Path cost: 144.953 - optimal cost: 144.368 - start: (118,660) - goal: (181,579)
+
+
+
+
+
+
+running scenario: scenarios/sc1/AcrosstheCape.map.scen
+ERROR_MISMATCHED_VALUES - Path cost: 426.115 - optimal cost: 425.529 - start: (138,596) - goal: (435,577)
+ERROR_MISMATCHED_VALUES - Path cost: 571.541 - optimal cost: 570.955 - start: (53,637) - goal: (406,565)
+ERROR_MISMATCHED_VALUES - Path cost: 608.536 - optimal cost: 607.95 - start: (50,733) - goal: (406,614)
+
+
+
+
+
+running scenario: scenarios/sc1/AcrosstheCape.map.scen
+
+running scenario: scenarios/sc1/AcrosstheCape.map.scen
+
+
+running scenario: scenarios/sc1/AcrosstheCape.map.scen
+
+running scenario: scenarios/sc1/AcrosstheCape.map.scen
+
+running scenario: scenarios/sc1/AcrosstheCape.map.scen
+
+running scenario: scenarios/sc1/AcrosstheCape.map.scen
+
+running scenario: scenarios/sc1/AcrosstheCape.map.scen
+
+running scenario: scenarios/sc1/AcrosstheCape.map.scen
+
+running scenario: scenarios/sc1/AcrosstheCape.map.scen
+
+running scenario: scenarios/sc1/AcrosstheCape.map.scen
+
+running scenario: scenarios/sc1/AcrosstheCape.map.scen
+
+running scenario: scenarios/sc1/AcrosstheCape.map.scen
+
+running scenario: scenarios/sc1/AcrosstheCape.map.scen
+
+running scenario: scenarios/sc1/AcrosstheCape.map.scen
+
+running scenario: scenarios/sc1/AcrosstheCape.map.scen
+
+running scenario: scenarios/sc1/AcrosstheCape.map.scen
+
+running scenario: scenarios/sc1/AcrosstheCape.map.scen
+
+running scenario: scenarios/sc1/AcrosstheCape.map.scen
+
+running scenario: scenarios/sc1/AcrosstheCape.map.scen
+
+running scenario: scenarios/sc1/AcrosstheCape.map.scen
+
+running scenario: scenarios/sc1/AcrosstheCape.map.scen
+
+running scenario: scenarios/sc1/AcrosstheCape.map.scen
+
+running scenario: scenarios/sc1/AcrosstheCape.map.scen
+
+running scenario: scenarios/sc1/AcrosstheCape.map.scen
+
+running scenario: scenarios/sc1/AcrosstheCape.map.scen
+
+running scenario: scenarios/sc1/AcrosstheCape.map.scen
+
+running scenario: scenarios/sc1/AcrosstheCape.map.scen
+
+running scenario: scenarios/sc1/AcrosstheCape.map.scen
+
+running scenario: scenarios/sc1/AcrosstheCape.map.scen
+
+//////////////////////ERRORS IN OCTILE TOO!!!!!////////////////////////////
+running scenario: scenarios/sc1/Aftershock.map.scen
+ERROR_MISMATCHED_VALUES - Path cost: 485.399 - optimal cost: 483.742 - start: (465,332) - goal: (155,477)
+ERROR_MISMATCHED_VALUES - Path cost: 492.624 - optimal cost: 485.21 - start: (402,95) - goal: (151,464)
+ERROR_MISMATCHED_VALUES - Path cost: 558.808 - optimal cost: 554.808 - start: (454,72) - goal: (154,472)
+
+
+
+
+
+
+running scenario: scenarios/sc1/Aftershock.map.scen
+ERROR_MISMATCHED_VALUES - Path cost: 485.399 - optimal cost: 483.742 - start: (465,332) - goal: (155,477)
+ERROR_MISMATCHED_VALUES - Path cost: 492.624 - optimal cost: 485.21 - start: (402,95) - goal: (151,464)
+ERROR_MISMATCHED_VALUES - Path cost: 558.808 - optimal cost: 554.808 - start: (454,72) - goal: (154,472)
+
+
+running scenario: scenarios/sc1/Archipelago.map.scen
+
+
+running scenario: scenarios/sc1/ArcticStation.map.scen
+
+
+running scenario: scenarios/sc1/Aurora.map.scen
+
+running scenario: scenarios/sc1/Aurora.map.scen
+
+running scenario: scenarios/sc1/Backwoods.map.scen
+
+running scenario: scenarios/sc1/Backwoods.map.scen
+
+
+running scenario: scenarios/sc1/BigGameHunters.map.scen
+
+
+running scenario: scenarios/sc1/BlackLotus.map.scen
+
+
+running scenario: scenarios/sc1/BlastFurnace.map.scen
+
+
+running scenario: scenarios/sc1/BrokenSteppes.map.scen
+ERROR_MISMATCHED_VALUES - Path cost: 437.186 - optimal cost: 436.6 - start: (587,683) - goal: (294,600)
+ERROR_MISMATCHED_VALUES - Path cost: 471.848 - optimal cost: 471.262 - start: (624,295) - goal: (480,685)
+
+
+running scenario: scenarios/sc1/Brushfire.map.scen
+
+
+running scenario: scenarios/sc1/Caldera.map.scen
+
+
+running scenario: scenarios/sc1/CatwalkAlley.map.scen
+
+
+running scenario: scenarios/sc1/Cauldron.map.scen
+
+
+running scenario: scenarios/sc1/CrashSites.map.scen
+
+
+running scenario: scenarios/sc1/CrescentMoon.map.scen
+
+
+running scenario: scenarios/sc1/Crossroads.map.scen
+
+
+running scenario: scenarios/sc1/DarkContinent.map.scen
+
+running scenario: scenarios/sc1/AcrosstheCape.map.scen
+
+
+running scenario: scenarios/sc1/Aftershock.map.scen
+ERROR_MISMATCHED_VALUES - Path cost: 485.399 - optimal cost: 483.742 - start: (465,332) - goal: (155,477)
+ERROR_MISMATCHED_VALUES - Path cost: 492.624 - optimal cost: 485.21 - start: (402,95) - goal: (151,464)
+ERROR_MISMATCHED_VALUES - Path cost: 558.808 - optimal cost: 554.808 - start: (454,72) - goal: (154,472)
+
+
+running scenario: scenarios/sc1/Archipelago.map.scen
+
+
+running scenario: scenarios/sc1/ArcticStation.map.scen
+
+
+running scenario: scenarios/sc1/Aurora.map.scen
+
+
+running scenario: scenarios/sc1/Backwoods.map.scen
+
+
+running scenario: scenarios/sc1/BigGameHunters.map.scen
+
+
+running scenario: scenarios/sc1/BlackLotus.map.scen
+
+
+running scenario: scenarios/sc1/BlastFurnace.map.scen
+
+
+running scenario: scenarios/sc1/BrokenSteppes.map.scen
+
+
+running scenario: scenarios/sc1/Brushfire.map.scen
+
+
+running scenario: scenarios/sc1/Caldera.map.scen
+
+
+running scenario: scenarios/sc1/CatwalkAlley.map.scen
+
+
+running scenario: scenarios/sc1/Cauldron.map.scen
+
+
+running scenario: scenarios/sc1/CrashSites.map.scen
+
+
+running scenario: scenarios/sc1/CrescentMoon.map.scen
+
+
+running scenario: scenarios/sc1/Crossroads.map.scen
+
+
+running scenario: scenarios/sc1/DarkContinent.map.scen
+
+
+running scenario: scenarios/sc1/Desolation.map.scen
+
+
+running scenario: scenarios/sc1/EbonLakes.map.scen
+
+
+running scenario: scenarios/sc1/Elderlands.map.scen
+
+
+running scenario: scenarios/sc1/Enigma.map.scen
+
+
+running scenario: scenarios/sc1/Entanglement.map.scen
+
+
+running scenario: scenarios/sc1/Eruption.map.scen
+
+
+running scenario: scenarios/sc1/Expedition.map.scen
+
+
+running scenario: scenarios/sc1/FireWalker.map.scen
+
+
+running scenario: scenarios/sc1/FloodedPlains.map.scen
+
+
+running scenario: scenarios/sc1/GhostTown.map.scen
+
+
+running scenario: scenarios/sc1/GladiatorPits.map.scen
+
+
+running scenario: scenarios/sc1/GreenerPastures.map.scen
+
+
+running scenario: scenarios/sc1/Aurora.map.scen
+
+running scenario: scenarios/sc1/Aurora.map.scen
+
+running scenario: scenarios/sc1/Aurora.map.scen
+
+running scenario: scenarios/sc1/Aurora.map.scen
+
+running scenario: scenarios/sc1/ArcticStation.map.scen
+
+running scenario: scenarios/sc1/ArcticStation.map.scen
+
+running scenario: scenarios/sc1/ArcticStation.map.scen
+
+
+running scenario: scenarios/sc1/ArcticStation.map.scen
+
+
+running scenario: scenarios/sc1/ArcticStation.map.scen
+
+
+running scenario: scenarios/sc1/Aurora.map.scen
+
+running scenario: scenarios/sc1/Aurora.map.scen
+
+running scenario: scenarios/sc1/ArcticStation.map.scen
+
+
+running scenario: scenarios/sc1/Aurora.map.scen
+
+running scenario: scenarios/sc1/Backwoods.map.scen
+
+
+running scenario: scenarios/sc1/BigGameHunters.map.scen
+
+
+running scenario: scenarios/sc1/BlackLotus.map.scen
+
+
+running scenario: scenarios/sc1/BlastFurnace.map.scen
+
+
+running scenario: scenarios/sc1/BrokenSteppes.map.scen
+
+
+running scenario: scenarios/sc1/Backwoods.map.scen
+
+running scenario: scenarios/sc1/Backwoods.map.scen
+
+
+running scenario: scenarios/sc1/BigGameHunters.map.scen
+
+
+running scenario: scenarios/sc1/BlackLotus.map.scen
+
+
+running scenario: scenarios/sc1/BlastFurnace.map.scen
+
+
+running scenario: scenarios/sc1/BrokenSteppes.map.scen
+
+
+running scenario: scenarios/sc1/Backwoods.map.scen
+
+
+running scenario: scenarios/sc1/BigGameHunters.map.scen
+
+
+running scenario: scenarios/sc1/BlackLotus.map.scen
+
+
+running scenario: scenarios/sc1/BlastFurnace.map.scen
+
+running scenario: scenarios/sc1/Backwoods.map.scen
+
+
+running scenario: scenarios/sc1/BigGameHunters.map.scen
+
+
+running scenario: scenarios/sc1/BlackLotus.map.scen
+
+
+running scenario: scenarios/sc1/BlastFurnace.map.scen
+
+
+running scenario: scenarios/sc1/BrokenSteppes.map.scen
+
+
+running scenario: scenarios/sc1/Backwoods.map.scen
+
+
+running scenario: scenarios/sc1/BigGameHunters.map.scen
+
+
+running scenario: scenarios/sc1/BlackLotus.map.scen
+
+
+running scenario: scenarios/sc1/BlastFurnace.map.scen
+
+
+running scenario: scenarios/sc1/BrokenSteppes.map.scen
+
+
+running scenario: scenarios/sc1/Backwoods.map.scen
+
+running scenario: scenarios/sc1/Backwoods.map.scen
+
+
+running scenario: scenarios/sc1/BigGameHunters.map.scen
+
+
+running scenario: scenarios/sc1/BlackLotus.map.scen
+
+
+running scenario: scenarios/sc1/BlastFurnace.map.scen
+
+
+running scenario: scenarios/sc1/BrokenSteppes.map.scen
+
+
+running scenario: scenarios/sc1/Backwoods.map.scen
+
+
+running scenario: scenarios/sc1/BigGameHunters.map.scen
+
+
+running scenario: scenarios/sc1/BlackLotus.map.scen
+
+
+running scenario: scenarios/sc1/BlastFurnace.map.scen
+
+
+running scenario: scenarios/sc1/BrokenSteppes.map.scen
+
+
+running scenario: scenarios/sc1/Backwoods.map.scen
+ERROR_MISMATCHED_VALUES - Path cost: 407.73 - optimal cost: 407.144 - start: (410,92) - goal: (374,14)
+ERROR_MISMATCHED_VALUES - Path cost: 404.63 - optimal cost: 404.044 - start: (351,288) - goal: (276,42)
+
+
+running scenario: scenarios/sc1/BigGameHunters.map.scen
+ERROR_MISMATCHED_VALUES - Path cost: 405.86 - optimal cost: 405.274 - start: (10,133) - goal: (191,117)
+
+
+running scenario: scenarios/sc1/BlackLotus.map.scen
+
+
+running scenario: scenarios/sc1/BlastFurnace.map.scen
+ERROR_MISMATCHED_VALUES - Path cost: 405.836 - optimal cost: 405.25 - start: (534,230) - goal: (767,10)
+ERROR_MISMATCHED_VALUES - Path cost: 405.421 - optimal cost: 404.836 - start: (495,464) - goal: (135,390)
+ERROR_MISMATCHED_VALUES - Path cost: 404.919 - optimal cost: 404.333 - start: (629,761) - goal: (609,469)
+ERROR_MISMATCHED_VALUES - Path cost: 405.742 - optimal cost: 404.914 - start: (525,513) - goal: (566,245)
+
+
+running scenario: scenarios/sc1/BrokenSteppes.map.scen
+ERROR_MISMATCHED_VALUES - Path cost: 459.279 - optimal cost: 405.38 - start: (631,395) - goal: (260,478)
+ERROR_MISMATCHED_VALUES - Path cost: 423.309 - optimal cost: 407.149 - start: (482,510) - goal: (501,148)
+
+
+running scenario: scenarios/sc1/Backwoods.map.scen
+
+
+running scenario: scenarios/sc1/BigGameHunters.map.scen
+
+
+running scenario: scenarios/sc1/BlackLotus.map.scen
+
+
+running scenario: scenarios/sc1/BlastFurnace.map.scen
+
+
+running scenario: scenarios/sc1/BrokenSteppes.map.scen
+
+
+running scenario: scenarios/sc1/Backwoods.map.scen
+
+
+running scenario: scenarios/sc1/BigGameHunters.map.scen
+
+
+running scenario: scenarios/sc1/BlackLotus.map.scen
+
+
+running scenario: scenarios/sc1/BlastFurnace.map.scen
+
+
+running scenario: scenarios/sc1/BrokenSteppes.map.scen
+
+
+running scenario: scenarios/sc1/Backwoods.map.scen
+
+running scenario: scenarios/sc1/Backwoods.map.scen
+
+
+running scenario: scenarios/sc1/BigGameHunters.map.scen
+
+running scenario: scenarios/sc1/BigGameHunters.map.scen
+
+
+running scenario: scenarios/sc1/BlackLotus.map.scen
+
+running scenario: scenarios/sc1/BlackLotus.map.scen
+
+
+running scenario: scenarios/sc1/BlastFurnace.map.scen
+
+running scenario: scenarios/sc1/BlastFurnace.map.scen
+
+
+running scenario: scenarios/sc1/BrokenSteppes.map.scen
+
+running scenario: scenarios/sc1/BrokenSteppes.map.scen
+
+
+running scenario: scenarios/sc1/Backwoods.map.scen
+
+running scenario: scenarios/sc1/Backwoods.map.scen
+
+
+running scenario: scenarios/sc1/BigGameHunters.map.scen
+
+running scenario: scenarios/sc1/BigGameHunters.map.scen
+
+
+running scenario: scenarios/sc1/BlackLotus.map.scen
+
+running scenario: scenarios/sc1/BlackLotus.map.scen
+
+
+running scenario: scenarios/sc1/BlastFurnace.map.scen
+
+running scenario: scenarios/sc1/BlastFurnace.map.scen
+
+
+running scenario: scenarios/sc1/BrokenSteppes.map.scen
+
+running scenario: scenarios/sc1/BrokenSteppes.map.scen
+
+
+running scenario: scenarios/sc1/Backwoods.map.scen
+
+running scenario: scenarios/sc1/Backwoods.map.scen
+
+
+running scenario: scenarios/sc1/BigGameHunters.map.scen
+
+running scenario: scenarios/sc1/BigGameHunters.map.scen
+
+
+running scenario: scenarios/sc1/BlackLotus.map.scen
+
+running scenario: scenarios/sc1/BlackLotus.map.scen
+
+
+running scenario: scenarios/sc1/BlastFurnace.map.scen
+
+running scenario: scenarios/sc1/BlastFurnace.map.scen
+
+
+running scenario: scenarios/sc1/BrokenSteppes.map.scen
+
+running scenario: scenarios/sc1/BrokenSteppes.map.scen
+
+
+running scenario: scenarios/sc1/Backwoods.map.scen
+
+running scenario: scenarios/sc1/Backwoods.map.scen
+
+
+running scenario: scenarios/sc1/BigGameHunters.map.scen
+
+running scenario: scenarios/sc1/BigGameHunters.map.scen
+
+
+running scenario: scenarios/sc1/BlackLotus.map.scen
+
+running scenario: scenarios/sc1/BlackLotus.map.scen
+
+
+running scenario: scenarios/sc1/BlastFurnace.map.scen
+
+running scenario: scenarios/sc1/BlastFurnace.map.scen
+
+
+running scenario: scenarios/sc1/BrokenSteppes.map.scen
+
+running scenario: scenarios/sc1/BrokenSteppes.map.scen
+
+
+running scenario: scenarios/sc1/Backwoods.map.scen
+
+running scenario: scenarios/sc1/Backwoods.map.scen
+
+
+running scenario: scenarios/sc1/BigGameHunters.map.scen
+
+running scenario: scenarios/sc1/BigGameHunters.map.scen
+
+
+running scenario: scenarios/sc1/BlackLotus.map.scen
+
+running scenario: scenarios/sc1/BlackLotus.map.scen
+
+
+running scenario: scenarios/sc1/BlastFurnace.map.scen
+
+running scenario: scenarios/sc1/BlastFurnace.map.scen
+
+
+running scenario: scenarios/sc1/BrokenSteppes.map.scen
+
+running scenario: scenarios/sc1/BrokenSteppes.map.scen
+
+
+running scenario: scenarios/sc1/Backwoods.map.scen
+
+running scenario: scenarios/sc1/Backwoods.map.scen
+
+
+running scenario: scenarios/sc1/BigGameHunters.map.scen
+
+running scenario: scenarios/sc1/BigGameHunters.map.scen
+
+
+running scenario: scenarios/sc1/BlackLotus.map.scen
+
+running scenario: scenarios/sc1/BlackLotus.map.scen
+
+
+running scenario: scenarios/sc1/BlastFurnace.map.scen
+
+running scenario: scenarios/sc1/BlastFurnace.map.scen
+
+
+running scenario: scenarios/sc1/BrokenSteppes.map.scen
+
+running scenario: scenarios/sc1/BrokenSteppes.map.scen
+
+
+running scenario: scenarios/sc1/Aurora.map.scen
+
+running scenario: scenarios/sc1/Aurora.map.scen
+
+
+running scenario: scenarios/sc1/Backwoods.map.scen
+
+running scenario: scenarios/sc1/Backwoods.map.scen
+
+
+running scenario: scenarios/sc1/Backwoods.map.scen
+
+running scenario: scenarios/sc1/Backwoods.map.scen
+
+
+running scenario: scenarios/sc1/AcrosstheCape.map.scen
+
+running scenario: scenarios/sc1/AcrosstheCape.map.scen
+
+
+running scenario: scenarios/sc1/Aftershock.map.scen
+
+running scenario: scenarios/sc1/Aftershock.map.scen
+
+
+running scenario: scenarios/sc1/Archipelago.map.scen
+
+running scenario: scenarios/sc1/Archipelago.map.scen
+
+
+running scenario: scenarios/sc1/ArcticStation.map.scen
+
+running scenario: scenarios/sc1/ArcticStation.map.scen
+
+
+running scenario: scenarios/sc1/Aurora.map.scen
+
+running scenario: scenarios/sc1/Aurora.map.scen
+
+
+running scenario: scenarios/sc1/Backwoods.map.scen
+
+running scenario: scenarios/sc1/Backwoods.map.scen
+
+
+running scenario: scenarios/sc1/BigGameHunters.map.scen
+
+running scenario: scenarios/sc1/BigGameHunters.map.scen
+
+
+running scenario: scenarios/sc1/BlackLotus.map.scen
+
+running scenario: scenarios/sc1/BlackLotus.map.scen
+
+
+running scenario: scenarios/sc1/BlastFurnace.map.scen
+
+running scenario: scenarios/sc1/BlastFurnace.map.scen
+
+
+running scenario: scenarios/sc1/BrokenSteppes.map.scen
+
+running scenario: scenarios/sc1/BrokenSteppes.map.scen
+
+
+running scenario: scenarios/sc1/Brushfire.map.scen
+
+running scenario: scenarios/sc1/Brushfire.map.scen
+
+
+running scenario: scenarios/sc1/Caldera.map.scen
+
+running scenario: scenarios/sc1/Caldera.map.scen
+
+
+running scenario: scenarios/sc1/CatwalkAlley.map.scen
+
+running scenario: scenarios/sc1/CatwalkAlley.map.scen
+
+running scenario: scenarios/sc1/AcrosstheCape.map.scen
+ERROR_MISMATCHED_VALUES - Path cost: 1093.84 - optimal cost: 1093.25 - start: (37,72) - goal: (720,66)
+
+running scenario: scenarios/sc1/AcrosstheCape.map.scen
+
+
+running scenario: scenarios/sc1/Aftershock.map.scen
+ERROR_MISMATCHED_VALUES - Path cost: 97.5685 - optimal cost: 95.3259 - start: (169,402) - goal: (159,479)
+ERROR_MISMATCHED_VALUES - Path cost: 94.3137 - optimal cost: 92.0711 - start: (148,469) - goal: (147,381)
+ERROR_MISMATCHED_VALUES - Path cost: 219.279 - optimal cost: 218.794 - start: (149,488) - goal: (291,376)
+ERROR_MISMATCHED_VALUES - Path cost: 485.399 - optimal cost: 483.742 - start: (465,332) - goal: (155,477)
+ERROR_MISMATCHED_VALUES - Path cost: 492.624 - optimal cost: 485.21 - start: (402,95) - goal: (151,464)
+ERROR_MISMATCHED_VALUES - Path cost: 558.808 - optimal cost: 554.808 - start: (454,72) - goal: (154,472)
+
+running scenario: scenarios/sc1/Aftershock.map.scen
+ERROR_MISMATCHED_VALUES - Path cost: 97.5685 - optimal cost: 95.3259 - start: (169,402) - goal: (159,479)
+ERROR_MISMATCHED_VALUES - Path cost: 94.3137 - optimal cost: 92.0711 - start: (148,469) - goal: (147,381)
+ERROR_MISMATCHED_VALUES - Path cost: 219.279 - optimal cost: 218.794 - start: (149,488) - goal: (291,376)
+ERROR_MISMATCHED_VALUES - Path cost: 485.399 - optimal cost: 483.742 - start: (465,332) - goal: (155,477)
+ERROR_MISMATCHED_VALUES - Path cost: 492.624 - optimal cost: 485.21 - start: (402,95) - goal: (151,464)
+ERROR_MISMATCHED_VALUES - Path cost: 558.808 - optimal cost: 554.808 - start: (454,72) - goal: (154,472)
+
+
+running scenario: scenarios/sc1/Archipelago.map.scen
+ERROR_MISMATCHED_VALUES - Path cost: 117.468 - optimal cost: 116.64 - start: (339,450) - goal: (304,352)
+ERROR_MISMATCHED_VALUES - Path cost: 131.326 - optimal cost: 130.74 - start: (94,287) - goal: (19,347)
+ERROR_MISMATCHED_VALUES - Path cost: 817.507 - optimal cost: 816.921 - start: (70,399) - goal: (481,27)
+
+running scenario: scenarios/sc1/Archipelago.map.scen
+
+
+running scenario: scenarios/sc1/ArcticStation.map.scen
+ERROR_MISMATCHED_VALUES - Path cost: 302.291 - optimal cost: 301.706 - start: (617,50) - goal: (415,62)
+
+running scenario: scenarios/sc1/ArcticStation.map.scen
+
+
+running scenario: scenarios/sc1/Aurora.map.scen
+ERROR_MISMATCHED_VALUES - Path cost: 7.82843 - optimal cost: 7 - start: (749,97) - goal: (749,104)
+ERROR_MISMATCHED_VALUES - Path cost: 23.2132 - optimal cost: 22.6274 - start: (274,273) - goal: (258,257)
+ERROR_MISMATCHED_VALUES - Path cost: 265.25 - optimal cost: 264.421 - start: (909,465) - goal: (694,559)
+ERROR_MISMATCHED_VALUES - Path cost: 657.666 - optimal cost: 656.838 - start: (668,601) - goal: (177,283)
+ERROR_MISMATCHED_VALUES - Path cost: 1105.02 - optimal cost: 1104.44 - start: (742,126) - goal: (181,727)
+
+running scenario: scenarios/sc1/Aurora.map.scen
+
+
+running scenario: scenarios/sc1/Backwoods.map.scen
+ERROR_MISMATCHED_VALUES - Path cost: 200.907 - optimal cost: 200.321 - start: (432,456) - goal: (447,310)
+ERROR_MISMATCHED_VALUES - Path cost: 553.588 - optimal cost: 552.759 - start: (215,49) - goal: (495,271)
+
+running scenario: scenarios/sc1/Backwoods.map.scen
+
+
+running scenario: scenarios/sc1/BigGameHunters.map.scen
+ERROR_MISMATCHED_VALUES - Path cost: 349.233 - optimal cost: 348.647 - start: (448,190) - goal: (200,113)
+ERROR_MISMATCHED_VALUES - Path cost: 438.458 - optimal cost: 437.872 - start: (430,433) - goal: (196,429)
+
+running scenario: scenarios/sc1/BigGameHunters.map.scen
+
+
+running scenario: scenarios/sc1/BlackLotus.map.scen
+ERROR_MISMATCHED_VALUES - Path cost: 1269.6 - optimal cost: 1268.77 - start: (415,234) - goal: (240,500)
+ERROR_MISMATCHED_VALUES - Path cost: 1310.1 - optimal cost: 1309.27 - start: (422,713) - goal: (400,240)
+ERROR_MISMATCHED_VALUES - Path cost: 1438.37 - optimal cost: 1438.02 - start: (11,600) - goal: (509,363)
+
+running scenario: scenarios/sc1/BlackLotus.map.scen
+
+
+running scenario: scenarios/sc1/BlastFurnace.map.scen
+
+running scenario: scenarios/sc1/AcrosstheCape.map.scen
+
+running scenario: scenarios/sc1/AcrosstheCape.map.scen
+
+
+running scenario: scenarios/sc1/Aftershock.map.scen
+
+running scenario: scenarios/sc1/Aftershock.map.scen
+
+
+running scenario: scenarios/sc1/Aftershock.map.scen
+
+running scenario: scenarios/sc1/Aftershock.map.scen
+
+
+running scenario: scenarios/sc1/Archipelago.map.scen
+ERROR_MISMATCHED_VALUES - Path cost: 817.507 - optimal cost: 816.921 - start: (70,399) - goal: (481,27)
+
+running scenario: scenarios/sc1/Archipelago.map.scen
+
+
+running scenario: scenarios/sc1/ArcticStation.map.scen
+
+running scenario: scenarios/sc1/ArcticStation.map.scen
+
+
+running scenario: scenarios/sc1/Aurora.map.scen
+
+running scenario: scenarios/sc1/Aurora.map.scen
+
+
+running scenario: scenarios/sc1/Backwoods.map.scen
+
+running scenario: scenarios/sc1/Backwoods.map.scen
+
+
+running scenario: scenarios/sc1/BigGameHunters.map.scen
+
+running scenario: scenarios/sc1/BigGameHunters.map.scen
+
+
+running scenario: scenarios/sc1/BlackLotus.map.scen
+
+running scenario: scenarios/sc1/BlackLotus.map.scen
+
+
+running scenario: scenarios/sc1/BlastFurnace.map.scen
+
+running scenario: scenarios/sc1/BlastFurnace.map.scen
+
+
+running scenario: scenarios/sc1/BrokenSteppes.map.scen
+
+running scenario: scenarios/sc1/BrokenSteppes.map.scen
+
+
+running scenario: scenarios/sc1/Brushfire.map.scen
+
+running scenario: scenarios/sc1/Brushfire.map.scen
+
+
+running scenario: scenarios/sc1/Caldera.map.scen
+
+running scenario: scenarios/sc1/Caldera.map.scen
+
+
+running scenario: scenarios/sc1/CatwalkAlley.map.scen
+
+running scenario: scenarios/sc1/CatwalkAlley.map.scen
+
+
+running scenario: scenarios/sc1/Cauldron.map.scen
+
+running scenario: scenarios/sc1/Cauldron.map.scen
+
+
+running scenario: scenarios/sc1/CrashSites.map.scen
+
+running scenario: scenarios/sc1/CrashSites.map.scen
+
+
+running scenario: scenarios/sc1/CrescentMoon.map.scen
+
+running scenario: scenarios/sc1/CrescentMoon.map.scen
+
+
+running scenario: scenarios/sc1/Crossroads.map.scen
+
+running scenario: scenarios/sc1/Crossroads.map.scen
+
+
+running scenario: scenarios/sc1/DarkContinent.map.scen
+
+running scenario: scenarios/sc1/DarkContinent.map.scen
+
+
+running scenario: scenarios/sc1/Desolation.map.scen
+
+running scenario: scenarios/sc1/Desolation.map.scen
+
+
+running scenario: scenarios/sc1/EbonLakes.map.scen
+
+running scenario: scenarios/sc1/EbonLakes.map.scen
+
+
+running scenario: scenarios/sc1/Elderlands.map.scen
+
+running scenario: scenarios/sc1/Elderlands.map.scen
+
+
+running scenario: scenarios/sc1/Enigma.map.scen
+
+running scenario: scenarios/sc1/Enigma.map.scen
+
+
+running scenario: scenarios/sc1/Entanglement.map.scen
+
+running scenario: scenarios/sc1/Entanglement.map.scen
+
+
+running scenario: scenarios/sc1/Eruption.map.scen
+
+running scenario: scenarios/sc1/Eruption.map.scen
+
+
+running scenario: scenarios/sc1/Expedition.map.scen
+
+running scenario: scenarios/sc1/Expedition.map.scen
+
+
+running scenario: scenarios/sc1/FireWalker.map.scen
+
+running scenario: scenarios/sc1/FireWalker.map.scen
+
+
+running scenario: scenarios/sc1/FloodedPlains.map.scen
+
+running scenario: scenarios/sc1/FloodedPlains.map.scen
+
+
+running scenario: scenarios/sc1/GhostTown.map.scen
+
+running scenario: scenarios/sc1/GhostTown.map.scen
+
+
+running scenario: scenarios/sc1/GladiatorPits.map.scen
+
+running scenario: scenarios/sc1/GladiatorPits.map.scen
+
+
+running scenario: scenarios/sc1/GreenerPastures.map.scen
+
+running scenario: scenarios/sc1/GreenerPastures.map.scen
+
+
+running scenario: scenarios/sc1/AcrosstheCape.map.scen
+ERROR_MISMATCHED_VALUES - Path cost: 1093.84 - optimal cost: 1093.25 - start: (37,72) - goal: (720,66)
+
+running scenario: scenarios/sc1/AcrosstheCape.map.scen
+
+
+running scenario: scenarios/sc1/Archipelago.map.scen
+ERROR_MISMATCHED_VALUES - Path cost: 117.468 - optimal cost: 116.64 - start: (339,450) - goal: (304,352)
+ERROR_MISMATCHED_VALUES - Path cost: 131.326 - optimal cost: 130.74 - start: (94,287) - goal: (19,347)
+ERROR_MISMATCHED_VALUES - Path cost: 817.507 - optimal cost: 816.921 - start: (70,399) - goal: (481,27)
+
+running scenario: scenarios/sc1/Archipelago.map.scen
+
+
+running scenario: scenarios/sc1/ArcticStation.map.scen
+ERROR_MISMATCHED_VALUES - Path cost: 302.291 - optimal cost: 301.706 - start: (617,50) - goal: (415,62)
+
+running scenario: scenarios/sc1/ArcticStation.map.scen
+
+
+running scenario: scenarios/sc1/Aurora.map.scen
+ERROR_MISMATCHED_VALUES - Path cost: 7.82843 - optimal cost: 7 - start: (749,97) - goal: (749,104)
+ERROR_MISMATCHED_VALUES - Path cost: 23.2132 - optimal cost: 22.6274 - start: (274,273) - goal: (258,257)
+ERROR_MISMATCHED_VALUES - Path cost: 265.25 - optimal cost: 264.421 - start: (909,465) - goal: (694,559)
+ERROR_MISMATCHED_VALUES - Path cost: 657.666 - optimal cost: 656.838 - start: (668,601) - goal: (177,283)
+ERROR_MISMATCHED_VALUES - Path cost: 1105.02 - optimal cost: 1104.44 - start: (742,126) - goal: (181,727)
+
+running scenario: scenarios/sc1/Aurora.map.scen
+
+
+running scenario: scenarios/sc1/Backwoods.map.scen
+ERROR_MISMATCHED_VALUES - Path cost: 200.907 - optimal cost: 200.321 - start: (432,456) - goal: (447,310)
+ERROR_MISMATCHED_VALUES - Path cost: 553.588 - optimal cost: 552.759 - start: (215,49) - goal: (495,271)
+
+running scenario: scenarios/sc1/Backwoods.map.scen
+
+
+running scenario: scenarios/sc1/BigGameHunters.map.scen
+ERROR_MISMATCHED_VALUES - Path cost: 349.233 - optimal cost: 348.647 - start: (448,190) - goal: (200,113)
+ERROR_MISMATCHED_VALUES - Path cost: 438.458 - optimal cost: 437.872 - start: (430,433) - goal: (196,429)
+
+running scenario: scenarios/sc1/BigGameHunters.map.scen
+
+
+running scenario: scenarios/sc1/BlackLotus.map.scen
+ERROR_MISMATCHED_VALUES - Path cost: 1269.6 - optimal cost: 1268.77 - start: (415,234) - goal: (240,500)
+ERROR_MISMATCHED_VALUES - Path cost: 1310.1 - optimal cost: 1309.27 - start: (422,713) - goal: (400,240)
+ERROR_MISMATCHED_VALUES - Path cost: 1438.37 - optimal cost: 1438.02 - start: (11,600) - goal: (509,363)
+
+running scenario: scenarios/sc1/BlackLotus.map.scen
+
+
+running scenario: scenarios/sc1/BlastFurnace.map.scen
+
+running scenario: scenarios/sc1/BlastFurnace.map.scen
+
+
+running scenario: scenarios/sc1/BrokenSteppes.map.scen
+ERROR_MISMATCHED_VALUES - Path cost: 437.186 - optimal cost: 436.6 - start: (587,683) - goal: (294,600)
+ERROR_MISMATCHED_VALUES - Path cost: 471.848 - optimal cost: 471.262 - start: (624,295) - goal: (480,685)
+
+running scenario: scenarios/sc1/BrokenSteppes.map.scen
+
+
+running scenario: scenarios/sc1/Brushfire.map.scen
+ERROR_MISMATCHED_VALUES - Path cost: 43.8701 - optimal cost: 44.6985 - start: (381,266) - goal: (345,247)
+
+running scenario: scenarios/sc1/Brushfire.map.scen
+ERROR_MISMATCHED_VALUES - Path cost: 43.8701 - optimal cost: 44.6985 - start: (381,266) - goal: (345,247)
+
+
+running scenario: scenarios/sc1/CatwalkAlley.map.scen
+
+running scenario: scenarios/sc1/CatwalkAlley.map.scen
+
+
+running scenario: scenarios/sc1/Cauldron.map.scen
+ERROR_MISMATCHED_VALUES - Path cost: 31.2132 - optimal cost: 30.3848 - start: (494,744) - goal: (519,731)
+ERROR_MISMATCHED_VALUES - Path cost: 128.64 - optimal cost: 129.468 - start: (61,587) - goal: (20,477)
+ERROR_MISMATCHED_VALUES - Path cost: 220.054 - optimal cost: 219.468 - start: (94,681) - goal: (215,789)
+ERROR_MISMATCHED_VALUES - Path cost: 250.995 - optimal cost: 250.409 - start: (56,649) - goal: (223,772)
+ERROR_MISMATCHED_VALUES - Path cost: 325.144 - optimal cost: 324.558 - start: (402,322) - goal: (555,93)
+ERROR_MISMATCHED_VALUES - Path cost: 413.262 - optimal cost: 412.676 - start: (562,418) - goal: (896,538)
+
+running scenario: scenarios/sc1/AcrosstheCape.map.scen
+ERROR_MISMATCHED_VALUES - Path cost: 1093.84 - optimal cost: 1093.25 - start: (37,72) - goal: (720,66)
+
+running scenario: scenarios/sc1/AcrosstheCape.map.scen
+
+
+running scenario: scenarios/sc1/Archipelago.map.scen
+ERROR_MISMATCHED_VALUES - Path cost: 117.468 - optimal cost: 116.64 - start: (339,450) - goal: (304,352)
+ERROR_MISMATCHED_VALUES - Path cost: 131.326 - optimal cost: 130.74 - start: (94,287) - goal: (19,347)
+ERROR_MISMATCHED_VALUES - Path cost: 817.507 - optimal cost: 816.921 - start: (70,399) - goal: (481,27)
+
+running scenario: scenarios/sc1/Archipelago.map.scen
+
+
+running scenario: scenarios/sc1/ArcticStation.map.scen
+ERROR_MISMATCHED_VALUES - Path cost: 302.291 - optimal cost: 301.706 - start: (617,50) - goal: (415,62)
+
+running scenario: scenarios/sc1/ArcticStation.map.scen
+
+running scenario: scenarios/sc1/Aurora.map.scen
+ERROR_MISMATCHED_VALUES - Path cost: 7.82843 - optimal cost: 7 - start: (749,97) - goal: (749,104)
+ERROR_MISMATCHED_VALUES - Path cost: 23.2132 - optimal cost: 22.6274 - start: (274,273) - goal: (258,257)
+ERROR_MISMATCHED_VALUES - Path cost: 265.25 - optimal cost: 264.421 - start: (909,465) - goal: (694,559)
+ERROR_MISMATCHED_VALUES - Path cost: 657.666 - optimal cost: 656.838 - start: (668,601) - goal: (177,283)
+ERROR_MISMATCHED_VALUES - Path cost: 1105.02 - optimal cost: 1104.44 - start: (742,126) - goal: (181,727)
+
+running scenario: scenarios/sc1/Aurora.map.scen
+
+
+running scenario: scenarios/sc1/Backwoods.map.scen
+ERROR_MISMATCHED_VALUES - Path cost: 200.907 - optimal cost: 200.321 - start: (432,456) - goal: (447,310)
+ERROR_MISMATCHED_VALUES - Path cost: 553.588 - optimal cost: 552.759 - start: (215,49) - goal: (495,271)
+
+running scenario: scenarios/sc1/Backwoods.map.scen
+
+
+running scenario: scenarios/sc1/BigGameHunters.map.scen
+ERROR_MISMATCHED_VALUES - Path cost: 349.233 - optimal cost: 348.647 - start: (448,190) - goal: (200,113)
+ERROR_MISMATCHED_VALUES - Path cost: 438.458 - optimal cost: 437.872 - start: (430,433) - goal: (196,429)
+
+running scenario: scenarios/sc1/BigGameHunters.map.scen
+
+
+running scenario: scenarios/sc1/BlackLotus.map.scen
+ERROR_MISMATCHED_VALUES - Path cost: 1269.6 - optimal cost: 1268.77 - start: (415,234) - goal: (240,500)
+ERROR_MISMATCHED_VALUES - Path cost: 1310.1 - optimal cost: 1309.27 - start: (422,713) - goal: (400,240)
+ERROR_MISMATCHED_VALUES - Path cost: 1438.37 - optimal cost: 1438.02 - start: (11,600) - goal: (509,363)
+
+running scenario: scenarios/sc1/BlackLotus.map.scen
+
+
+running scenario: scenarios/sc1/BlastFurnace.map.scen
+
+running scenario: scenarios/sc1/BlastFurnace.map.scen
+
+
+running scenario: scenarios/sc1/BrokenSteppes.map.scen
+ERROR_MISMATCHED_VALUES - Path cost: 437.186 - optimal cost: 436.6 - start: (587,683) - goal: (294,600)
+ERROR_MISMATCHED_VALUES - Path cost: 471.848 - optimal cost: 471.262 - start: (624,295) - goal: (480,685)
+
+running scenario: scenarios/sc1/BrokenSteppes.map.scen
+
+
+running scenario: scenarios/sc1/Brushfire.map.scen
+ERROR_MISMATCHED_VALUES - Path cost: 43.8701 - optimal cost: 44.6985 - start: (381,266) - goal: (345,247)
+
+running scenario: scenarios/sc1/Brushfire.map.scen
+ERROR_MISMATCHED_VALUES - Path cost: 43.8701 - optimal cost: 44.6985 - start: (381,266) - goal: (345,247)
+
+
+running scenario: scenarios/sc1/CatwalkAlley.map.scen
+
+running scenario: scenarios/sc1/CatwalkAlley.map.scen
+
+
+running scenario: scenarios/sc1/Cauldron.map.scen
+ERROR_MISMATCHED_VALUES - Path cost: 31.2132 - optimal cost: 30.3848 - start: (494,744) - goal: (519,731)
+ERROR_MISMATCHED_VALUES - Path cost: 128.64 - optimal cost: 129.468 - start: (61,587) - goal: (20,477)
+ERROR_MISMATCHED_VALUES - Path cost: 220.054 - optimal cost: 219.468 - start: (94,681) - goal: (215,789)
+ERROR_MISMATCHED_VALUES - Path cost: 250.995 - optimal cost: 250.409 - start: (56,649) - goal: (223,772)
+ERROR_MISMATCHED_VALUES - Path cost: 325.144 - optimal cost: 324.558 - start: (402,322) - goal: (555,93)
+ERROR_MISMATCHED_VALUES - Path cost: 413.262 - optimal cost: 412.676 - start: (562,418) - goal: (896,538)
+ERROR_MISMATCHED_VALUES - Path cost: 752.411 - optimal cost: 751.825 - start: (926,114) - goal: (1023,466)
+ERROR_MISMATCHED_VALUES - Path cost: 794.777 - optimal cost: 794.191 - start: (54,701) - goal: (687,628)
+ERROR_MISMATCHED_VALUES - Path cost: 804.129 - optimal cost: 803.543 - start: (270,154) - goal: (860,532)
+ERROR_MISMATCHED_VALUES - Path cost: 981.413 - optimal cost: 980.828 - start: (109,105) - goal: (835,556)
+ERROR_MISMATCHED_VALUES - Path cost: 1120.2 - optimal cost: 1119.61 - start: (195,20) - goal: (866,537)
+ERROR_IMPOSSIBLE_STATE - 
+(906,813) is not a valid state in this state space
+
+running scenario: scenarios/sc1/Cauldron.map.scen
+ERROR_MISMATCHED_VALUES - Path cost: 128.64 - optimal cost: 129.468 - start: (61,587) - goal: (20,477)
+ERROR_IMPOSSIBLE_STATE - 
+(906,813) is not a valid state in this state space
+
+
+running scenario: scenarios/sc1/CrashSites.map.scen
+ERROR_MISMATCHED_VALUES - Path cost: 577.269 - optimal cost: 576.683 - start: (53,159) - goal: (515,399)
+
+running scenario: scenarios/sc1/CrashSites.map.scen
+
+
+running scenario: scenarios/sc1/Crossroads.map.scen
+ERROR_MISMATCHED_VALUES - Path cost: 992.205 - optimal cost: 992.105 - start: (729,185) - goal: (34,326)
+
+running scenario: scenarios/sc1/Crossroads.map.scen
+
+
+running scenario: scenarios/sc1/DarkContinent.map.scen
+ERROR_MISMATCHED_VALUES - Path cost: 210.652 - optimal cost: 209.823 - start: (68,660) - goal: (230,694)
+ERROR_MISMATCHED_VALUES - Path cost: 234.836 - optimal cost: 234.25 - start: (255,232) - goal: (389,354)
+ERROR_MISMATCHED_VALUES - Path cost: 318.789 - optimal cost: 318.203 - start: (177,94) - goal: (85,317)
+ERROR_MISMATCHED_VALUES - Path cost: 473.156 - optimal cost: 472.328 - start: (229,725) - goal: (410,363)
+ERROR_MISMATCHED_VALUES - Path cost: 482.784 - optimal cost: 481.955 - start: (340,356) - goal: (128,106)
+ERROR_MISMATCHED_VALUES - Path cost: 497.517 - optimal cost: 496.688 - start: (315,630) - goal: (113,287)
+ERROR_MISMATCHED_VALUES - Path cost: 802.933 - optimal cost: 802.347 - start: (100,696) - goal: (165,75)
+ERROR_MISMATCHED_VALUES - Path cost: 927.874 - optimal cost: 927.046 - start: (363,22) - goal: (132,202)
+
+running scenario: scenarios/sc1/DarkContinent.map.scen
+
+
+running scenario: scenarios/sc1/Elderlands.map.scen
+ERROR_MISMATCHED_VALUES - Path cost: 107.527 - optimal cost: 106.698 - start: (278,128) - goal: (299,226)
+ERROR_MISMATCHED_VALUES - Path cost: 380.652 - optimal cost: 380.066 - start: (486,490) - goal: (416,734)
+ERROR_MISMATCHED_VALUES - Path cost: 543.879 - optimal cost: 543.051 - start: (224,466) - goal: (633,715)
+
+running scenario: scenarios/sc1/Elderlands.map.scen
+
+
+running scenario: scenarios/sc1/Enigma.map.scen
+ERROR_MISMATCHED_VALUES - Path cost: 171.38 - optimal cost: 170.551 - start: (340,567) - goal: (425,434)
+ERROR_MISMATCHED_VALUES - Path cost: 324.635 - optimal cost: 323.806 - start: (527,412) - goal: (423,328)
+ERROR_MISMATCHED_VALUES - Path cost: 519.558 - optimal cost: 518.73 - start: (482,188) - goal: (677,208)
+ERROR_MISMATCHED_VALUES - Path cost: 864.075 - optimal cost: 863.489 - start: (118,636) - goal: (506,101)
+
+running scenario: scenarios/sc1/Enigma.map.scen
+
+
+running scenario: scenarios/sc1/Expedition.map.scen
+ERROR_MISMATCHED_VALUES - Path cost: 129.024 - optimal cost: 128.439 - start: (732,141) - goal: (673,245)
+ERROR_MISMATCHED_VALUES - Path cost: 132.723 - optimal cost: 132.137 - start: (138,905) - goal: (45,909)
+
+running scenario: scenarios/sc1/Expedition.map.scen
+
+
+running scenario: scenarios/sc1/FireWalker.map.scen
+
+running scenario: scenarios/sc1/FireWalker.map.scen
+
+
+running scenario: scenarios/sc1/FloodedPlains.map.scen
+ERROR_MISMATCHED_VALUES - Path cost: 237.966 - optimal cost: 237.38 - start: (751,336) - goal: (707,134)
+ERROR_MISMATCHED_VALUES - Path cost: 278.706 - optimal cost: 278.12 - start: (556,302) - goal: (434,105)
+ERROR_MISMATCHED_VALUES - Path cost: 366.914 - optimal cost: 366.328 - start: (248,754) - goal: (197,498)
+ERROR_MISMATCHED_VALUES - Path cost: 477.316 - optimal cost: 476.73 - start: (415,452) - goal: (504,80)
+ERROR_MISMATCHED_VALUES - Path cost: 526.098 - optimal cost: 525.512 - start: (177,448) - goal: (97,68)
+
+running scenario: scenarios/sc1/FloodedPlains.map.scen
+
+
+running scenario: scenarios/sc1/GhostTown.map.scen
+ERROR_MISMATCHED_VALUES - Path cost: 106.368 - optimal cost: 105.539 - start: (398,38) - goal: (482,90)
+ERROR_MISMATCHED_VALUES - Path cost: 416.286 - optimal cost: 415.458 - start: (722,262) - goal: (405,470)
+ERROR_MISMATCHED_VALUES - Path cost: 725.749 - optimal cost: 725.164 - start: (686,449) - goal: (277,149)
+
+running scenario: scenarios/sc1/GhostTown.map.scen
+
+
+running scenario: scenarios/sc1/GladiatorPits.map.scen
+ERROR_MISMATCHED_VALUES - Path cost: 57.1543 - optimal cost: 56.5685 - start: (288,436) - goal: (248,476)
+ERROR_MISMATCHED_VALUES - Path cost: 367.279 - optimal cost: 366.693 - start: (533,18) - goal: (351,222)
+
+running scenario: scenarios/sc1/GladiatorPits.map.scen
+
+
+running scenario: scenarios/sc1/GreenerPastures.map.scen
+ERROR_MISMATCHED_VALUES - Path cost: 142.024 - optimal cost: 141.439 - start: (398,259) - goal: (287,220)
+ERROR_MISMATCHED_VALUES - Path cost: 463.983 - optimal cost: 463.154 - start: (511,354) - goal: (64,393)
+
+running scenario: scenarios/sc1/GreenerPastures.map.scen
+
+
+running scenario: scenarios/bg2/AR0205SR.map.scen
+
+running scenario: scenarios/bg2/AR0205SR.map.scen
+
+running scenario: scenarios/bg2/AR0205SR.map.scen
+
+running scenario: scenarios/bg2/AR0205SR.map.scen
+
+running scenario: scenarios/bg2/AR0205SR.map.scen
+
+running scenario: scenarios/bg2/AR0205SR.map.scen
+
+running scenario: scenarios/bg2/AR0205SR.map.scen
+
+running scenario: scenarios/bg2/AR0205SR.map.scen
+
+running scenario: scenarios/bg2/AR0205SR.map.scen
+
+running scenario: scenarios/bg2/AR0205SR.map.scen
+
+running scenario: scenarios/bg2/AR0205SR.map.scen
+
+running scenario: scenarios/bg2/AR0205SR.map.scen
+
+running scenario: scenarios/bg2/AR0406SR.map.scen
+
+running scenario: scenarios/sc1/AcrosstheCape.map.scen
+
+running scenario: scenarios/sc1/AcrosstheCape.map.scen
+
+running scenario: scenarios/sc1/AcrosstheCape.map.scen
+
+running scenario: scenarios/bg2/AR0205SR.map.scen
+ERROR_MISMATCHED_VALUES - Path cost: 212.919 - optimal cost: 212.33 - start: (184,176) - goal: (340,312)
+ERROR_MISMATCHED_VALUES - Path cost: 209.267 - optimal cost: 208.68 - start: (226,320) - goal: (408,307)
+ERROR_MISMATCHED_VALUES - Path cost: 455.026 - optimal cost: 454.2 - start: (321,55) - goal: (118,312)
+ERROR_MISMATCHED_VALUES - Path cost: 198.451 - optimal cost: 197.87 - start: (306,244) - goal: (145,333)
+ERROR_MISMATCHED_VALUES - Path cost: 355.286 - optimal cost: 354.11 - start: (440,339) - goal: (216,191)
+ERROR_MISMATCHED_VALUES - Path cost: 496.382 - optimal cost: 495.8 - start: (66,161) - goal: (424,387)
+ERROR_MISMATCHED_VALUES - Path cost: 347.617 - optimal cost: 347.03 - start: (38,183) - goal: (313,243)
+ERROR_MISMATCHED_VALUES - Path cost: 430.5 - optimal cost: 429.33 - start: (26,234) - goal: (327,275)
+ERROR_MISMATCHED_VALUES - Path cost: 326.759 - optimal cost: 326.17 - start: (278,428) - goal: (217,191)
+ERROR_MISMATCHED_VALUES - Path cost: 364.713 - optimal cost: 364.13 - start: (173,149) - goal: (413,398)
+ERROR_MISMATCHED_VALUES - Path cost: 290.693 - optimal cost: 290.11 - start: (159,157) - goal: (411,235)
+ERROR_MISMATCHED_VALUES - Path cost: 324.208 - optimal cost: 323.04 - start: (130,202) - goal: (406,238)
+
+running scenario: scenarios/bg2/AR0205SR.map.scen
+ERROR_MISMATCHED_VALUES - Path cost: 212.919 - optimal cost: 212.33 - start: (184,176) - goal: (340,312)
+ERROR_MISMATCHED_VALUES - Path cost: 209.267 - optimal cost: 208.68 - start: (226,320) - goal: (408,307)
+ERROR_MISMATCHED_VALUES - Path cost: 455.026 - optimal cost: 454.2 - start: (321,55) - goal: (118,312)
+ERROR_MISMATCHED_VALUES - Path cost: 198.451 - optimal cost: 197.87 - start: (306,244) - goal: (145,333)
+ERROR_MISMATCHED_VALUES - Path cost: 355.286 - optimal cost: 354.11 - start: (440,339) - goal: (216,191)
+ERROR_MISMATCHED_VALUES - Path cost: 496.382 - optimal cost: 495.8 - start: (66,161) - goal: (424,387)
+ERROR_MISMATCHED_VALUES - Path cost: 347.617 - optimal cost: 347.03 - start: (38,183) - goal: (313,243)
+ERROR_MISMATCHED_VALUES - Path cost: 430.5 - optimal cost: 429.33 - start: (26,234) - goal: (327,275)
+ERROR_MISMATCHED_VALUES - Path cost: 326.759 - optimal cost: 326.17 - start: (278,428) - goal: (217,191)
+ERROR_MISMATCHED_VALUES - Path cost: 364.713 - optimal cost: 364.13 - start: (173,149) - goal: (413,398)
+ERROR_MISMATCHED_VALUES - Path cost: 290.693 - optimal cost: 290.11 - start: (159,157) - goal: (411,235)
+ERROR_MISMATCHED_VALUES - Path cost: 324.208 - optimal cost: 323.04 - start: (130,202) - goal: (406,238)
+
+running scenario: scenarios/bg2/AR0205SR.map.scen
+
+
+running scenario: scenarios/bg2/AR0406SR.map.scen
+ERROR_MISMATCHED_VALUES - Path cost: 363.233 - optimal cost: 362.65 - start: (267,160) - goal: (406,372)
+ERROR_MISMATCHED_VALUES - Path cost: 302.806 - optimal cost: 302.22 - start: (162,129) - goal: (42,220)
+ERROR_MISMATCHED_VALUES - Path cost: 327.747 - optimal cost: 327.16 - start: (401,161) - goal: (449,403)
+ERROR_MISMATCHED_VALUES - Path cost: 105.468 - optimal cost: 104.88 - start: (134,287) - goal: (177,311)
+ERROR_MISMATCHED_VALUES - Path cost: 390.818 - optimal cost: 390.23 - start: (311,101) - goal: (451,401)
+ERROR_MISMATCHED_VALUES - Path cost: 56.7696 - optimal cost: 56.18 - start: (436,371) - goal: (391,366)
+ERROR_MISMATCHED_VALUES - Path cost: 385.12 - optimal cost: 384.53 - start: (376,126) - goal: (457,399)
+ERROR_MISMATCHED_VALUES - Path cost: 344.333 - optimal cost: 343.75 - start: (403,167) - goal: (454,388)
+ERROR_MISMATCHED_VALUES - Path cost: 347.262 - optimal cost: 346.68 - start: (324,133) - goal: (449,404)
+ERROR_MISMATCHED_VALUES - Path cost: 486.742 - optimal cost: 486.16 - start: (240,187) - goal: (453,384)
+ERROR_MISMATCHED_VALUES - Path cost: 490.571 - optimal cost: 489.74 - start: (119,386) - goal: (371,281)
+ERROR_MISMATCHED_VALUES - Path cost: 276.037 - optimal cost: 275.45 - start: (352,174) - goal: (438,363)
+ERROR_MISMATCHED_VALUES - Path cost: 461.316 - optimal cost: 460.73 - start: (229,227) - goal: (445,392)
+ERROR_MISMATCHED_VALUES - Path cost: 240.451 - optimal cost: 239.87 - start: (350,230) - goal: (446,396)
+ERROR_MISMATCHED_VALUES - Path cost: 422.558 - optimal cost: 421.97 - start: (298,196) - goal: (475,415)
+
+running scenario: scenarios/bg2/AR0406SR.map.scen
+
+
+
+
+
+
+
+
+//STARTING AFTER DATA/DIST SPLIT
+
+
+running scenario: scenarios/sc1/ArcticStation.map.scen
+ERROR_MISMATCHED_VALUES - Path cost: 212.681 - optimal cost: 207.711 - start: (92,498) - goal: (237,584)
+ERROR_MISMATCHED_VALUES - Path cost: 208.338 - optimal cost: 205.853 - start: (194,314) - goal: (375,296)
+ERROR_MISMATCHED_VALUES - Path cost: 221.664 - optimal cost: 207.605 - start: (337,573) - goal: (206,724)
+ERROR_MISMATCHED_VALUES - Path cost: 208.693 - optimal cost: 205.764 - start: (353,138) - goal: (187,42)
+ERROR_MISMATCHED_VALUES - Path cost: 211.877 - optimal cost: 211.291 - start: (281,166) - goal: (326,298)
+ERROR_MISMATCHED_VALUES - Path cost: 213.492 - optimal cost: 211.007 - start: (540,79) - goal: (388,182)
+ERROR_MISMATCHED_VALUES - Path cost: 226.924 - optimal cost: 214.622 - start: (659,654) - goal: (480,740)
+ERROR_MISMATCHED_VALUES - Path cost: 214.51 - optimal cost: 213.924 - start: (525,550) - goal: (383,440)
+ERROR_MISMATCHED_VALUES - Path cost: 220.492 - optimal cost: 218.007 - start: (422,49) - goal: (409,170)
+ERROR_MISMATCHED_VALUES - Path cost: 220.024 - optimal cost: 218.267 - start: (665,154) - goal: (511,116)
+ERROR_MISMATCHED_VALUES - Path cost: 222.711 - optimal cost: 216.912 - start: (706,535) - goal: (504,499)
+ERROR_MISMATCHED_VALUES - Path cost: 218.35 - optimal cost: 216.593 - start: (334,504) - goal: (510,602)
+ERROR_MISMATCHED_VALUES - Path cost: 229.995 - optimal cost: 222.38 - start: (480,123) - goal: (668,40)
+ERROR_MISMATCHED_VALUES - Path cost: 224.108 - optimal cost: 223.279 - start: (681,761) - goal: (495,671)
+ERROR_MISMATCHED_VALUES - Path cost: 222.894 - optimal cost: 222.309 - start: (278,501) - goal: (88,423)
+ERROR_MISMATCHED_VALUES - Path cost: 224.468 - optimal cost: 223.882 - start: (206,100) - goal: (35,53)
+
+running scenario: scenarios/sc1/ArcticStation.map.scen
+
+
+running scenario: scenarios/sc1/AcrosstheCape.map.scen
+ERROR_MISMATCHED_VALUES - Path cost: 305.505 - optimal cost: 207.137 - start: (14,713) - goal: (31,578)
+
+running scenario: scenarios/sc1/AcrosstheCape.map.scen
+
+
+running scenario: scenarios/sc1/AcrosstheCape.map.scen
+ERROR_MISMATCHED_VALUES - Path cost: 212.924 - optimal cost: 212.095 - start: (682,285) - goal: (685,183)
+ERROR_MISMATCHED_VALUES - Path cost: 269.664 - optimal cost: 216.936 - start: (297,247) - goal: (363,351)
+ERROR_MISMATCHED_VALUES - Path cost: 221.463 - optimal cost: 220.635 - start: (661,298) - goal: (644,177)
+
+running scenario: scenarios/sc1/AcrosstheCape.map.scen
+
+
+running scenario: scenarios/sc1/AcrosstheCape.map.scen
+ERROR_MISMATCHED_VALUES - Path cost: 212.924 - optimal cost: 212.095 - start: (682,285) - goal: (685,183)
+ERROR_MISMATCHED_VALUES - Path cost: 269.664 - optimal cost: 216.936 - start: (297,247) - goal: (363,351)
+ERROR_MISMATCHED_VALUES - Path cost: 221.463 - optimal cost: 220.635 - start: (661,298) - goal: (644,177)
+
+running scenario: scenarios/sc1/AcrosstheCape.map.scen
+
+
+running scenario: scenarios/sc1/AcrosstheCape.map.scen
+
+running scenario: scenarios/sc1/AcrosstheCape.map.scen
+
+
+running scenario: scenarios/sc1/AcrosstheCape.map.scen
+
+running scenario: scenarios/sc1/AcrosstheCape.map.scen
+
+
+running scenario: scenarios/sc1/Aurora.map.scen
+
+running scenario: scenarios/sc1/Aurora.map.scen
+ERROR_MISMATCHED_VALUES - Path cost: 139.782 - optimal cost: 0.01 - start: (341,265) - goal: (396,148)
+ERROR_MISMATCHED_VALUES - Path cost: 139.782 - optimal cost: 0.01 - start: (341,265) - goal: (396,148)
+ERROR_MISMATCHED_VALUES - Path cost: 139.782 - optimal cost: 0.01 - start: (341,265) - goal: (396,148)
+ERROR_MISMATCHED_VALUES - Path cost: 139.782 - optimal cost: 0.01 - start: (341,265) - goal: (396,148)
+ERROR_MISMATCHED_VALUES - Path cost: 139.782 - optimal cost: 0.01 - start: (341,265) - goal: (396,148)
+ERROR_MISMATCHED_VALUES - Path cost: 139.782 - optimal cost: 0.01 - start: (341,265) - goal: (396,148)
+ERROR_MISMATCHED_VALUES - Path cost: 139.782 - optimal cost: 0.01 - start: (341,265) - goal: (396,148)
+ERROR_MISMATCHED_VALUES - Path cost: 139.782 - optimal cost: 0.01 - start: (341,265) - goal: (396,148)
+ERROR_MISMATCHED_VALUES - Path cost: 139.782 - optimal cost: 0.01 - start: (341,265) - goal: (396,148)
+ERROR_MISMATCHED_VALUES - Path cost: 139.782 - optimal cost: 0.01 - start: (341,265) - goal: (396,148)
+
+running scenario: scenarios/sc1/AcrosstheCape.map.scen
+ERROR_MISMATCHED_VALUES - Path cost: 305.505 - optimal cost: 207.137 - start: (14,713) - goal: (31,578)
+
+running scenario: scenarios/sc1/AcrosstheCape.map.scen
+
+ERROR_MISMATCHED_VALUES - Path cost: 139.782 - optimal cost: 0.01 - start: (341,265) - goal: (396,148)
+ERROR_MISMATCHED_VALUES - Path cost: 139.782 - optimal cost: 0.01 - start: (341,265) - goal: (396,148)
+
+running scenario: scenarios/sc1/Aurora.map.scen
+
+running scenario: scenarios/sc1/Aurora.map.scen
+ERROR_MISMATCHED_VALUES - Path cost: 501.688 - optimal cost: 404.517 - start: (27,434) - goal: (243,234)
+ERROR_MISMATCHED_VALUES - Path cost: 462.948 - optimal cost: 410.688 - start: (343,101) - goal: (99,322)
+ERROR_MISMATCHED_VALUES - Path cost: 413.215 - optimal cost: 409.701 - start: (65,583) - goal: (162,317)
+ERROR_MISMATCHED_VALUES - Path cost: 430.286 - optimal cost: 411.475 - start: (324,536) - goal: (213,304)
+ERROR_MISMATCHED_VALUES - Path cost: 419.286 - optimal cost: 409.914 - start: (361,568) - goal: (49,362)
+
+running scenario: scenarios/sc1/AcrosstheCape.map.scen
+ERROR_MISMATCHED_VALUES - Path cost: 415.889 - optimal cost: 412.6 - start: (116,371) - goal: (285,120)
+ERROR_MISMATCHED_VALUES - Path cost: 524.973 - optimal cost: 413.073 - start: (30,459) - goal: (217,171)
+
+running scenario: scenarios/sc1/AcrosstheCape.map.scen
+ERROR_MISMATCHED_VALUES - Path cost: 542.789 - optimal cost: 421.024 - start: (467,669) - goal: (70,661)
+
+running scenario: scenarios/sc1/Aurora.map.scen
+
+
+
+running scenario: scenarios/sc1/Aurora.map.scen
+ERROR_MISMATCHED_VALUES - Path cost: 501.688 - optimal cost: 404.517 - start: (27,434) - goal: (243,234)
+ERROR_MISMATCHED_VALUES - Path cost: 462.948 - optimal cost: 410.688 - start: (343,101) - goal: (99,322)
+ERROR_MISMATCHED_VALUES - Path cost: 413.215 - optimal cost: 409.701 - start: (65,583) - goal: (162,317)
+ERROR_MISMATCHED_VALUES - Path cost: 430.286 - optimal cost: 411.475 - start: (324,536) - goal: (213,304)
+ERROR_MISMATCHED_VALUES - Path cost: 419.286 - optimal cost: 409.914 - start: (361,568) - goal: (49,362)
+ERROR_MISMATCHED_VALUES - Path cost: 415.889 - optimal cost: 412.6 - start: (116,371) - goal: (285,120)
+ERROR_MISMATCHED_VALUES - Path cost: 524.973 - optimal cost: 413.073 - start: (30,459) - goal: (217,171)
+ERROR_MISMATCHED_VALUES - Path cost: 542.789 - optimal cost: 421.024 - start: (467,669) - goal: (70,661)
+
+running scenario: scenarios/sc1/Aurora.map.scen
+
+
+running scenario: scenarios/sc1/AcrosstheCape.map.scen
+
+running scenario: scenarios/sc1/AcrosstheCape.map.scen
+
+
+running scenario: scenarios/sc1/AcrosstheCape.map.scen
+
+running scenario: scenarios/sc1/AcrosstheCape.map.scen
+
+
+running scenario: scenarios/sc1/AcrosstheCape.map.scen
+
+running scenario: scenarios/sc1/AcrosstheCape.map.scen
+
+ERROR_MISMATCHED_VALUES - Path cost: 139.782 - optimal cost: 0.01 - start: (341,265) - goal: (396,148)
+ERROR_MISMATCHED_VALUES - Path cost: 139.782 - optimal cost: 0.01 - start: (341,265) - goal: (396,148)
+
+running scenario: scenarios/sc1/Aurora.map.scen
+
+running scenario: scenarios/sc1/Aurora.map.scen
+
+
+running scenario: scenarios/sc1/Aurora.map.scen
+
+running scenario: scenarios/sc1/Aurora.map.scen
+
+
+running scenario: scenarios/sc1/Aurora.map.scen
+
+running scenario: scenarios/sc1/Aurora.map.scen
+
+
+running scenario: scenarios/sc1/Aurora.map.scen
+ERROR_MISMATCHED_VALUES - Path cost: 7.82843 - optimal cost: 7 - start: (749,97) - goal: (749,104)
+ERROR_MISMATCHED_VALUES - Path cost: 23.2132 - optimal cost: 22.6274 - start: (274,273) - goal: (258,257)
+
+running scenario: scenarios/sc1/Aurora.map.scen
+ERROR_MISMATCHED_VALUES - Path cost: 7.82843 - optimal cost: 7 - start: (749,97) - goal: (749,104)
+ERROR_MISMATCHED_VALUES - Path cost: 23.2132 - optimal cost: 22.6274 - start: (274,273) - goal: (258,257)
+
+running scenario: scenarios/sc1/Aurora.map.scen
+ERROR_MISMATCHED_VALUES - Path cost: 7.82843 - optimal cost: 7 - start: (749,97) - goal: (749,104)
+ERROR_MISMATCHED_VALUES - Path cost: 23.2132 - optimal cost: 22.6274 - start: (274,273) - goal: (258,257)
+
+running scenario: scenarios/sc1/Aurora.map.scen
+ERROR_MISMATCHED_VALUES - Path cost: 7.82843 - optimal cost: 7 - start: (749,97) - goal: (749,104)
+ERROR_MISMATCHED_VALUES - Path cost: 23.2132 - optimal cost: 22.6274 - start: (274,273) - goal: (258,257)
+
+running scenario: scenarios/sc1/Aurora.map.scen
+ERROR_MISMATCHED_VALUES - Path cost: 7.82843 - optimal cost: 7 - start: (749,97) - goal: (749,104)
+ERROR_MISMATCHED_VALUES - Path cost: 23.2132 - optimal cost: 22.6274 - start: (274,273) - goal: (258,257)
+
+running scenario: scenarios/sc1/Aurora.map.scen
+ERROR_MISMATCHED_VALUES - Path cost: 7.82843 - optimal cost: 7 - start: (749,97) - goal: (749,104)
+ERROR_MISMATCHED_VALUES - Path cost: 23.2132 - optimal cost: 22.6274 - start: (274,273) - goal: (258,257)
+
+running scenario: scenarios/sc1/Aurora.map.scen
+ERROR_MISMATCHED_VALUES - Path cost: 7.82843 - optimal cost: 7 - start: (749,97) - goal: (749,104)
+ERROR_MISMATCHED_VALUES - Path cost: 23.2132 - optimal cost: 22.6274 - start: (274,273) - goal: (258,257)
+ERROR_MISMATCHED_VALUES - Path cost: 206.693 - optimal cost: 206.108 - start: (103,700) - goal: (228,565)
+ERROR_MISMATCHED_VALUES - Path cost: 266.806 - optimal cost: 264.321 - start: (739,514) - goal: (519,621)
+ERROR_MISMATCHED_VALUES - Path cost: 265.25 - optimal cost: 264.421 - start: (909,465) - goal: (694,559)
+
+
+STARTING HERE 26. OCTOBER
+
+
+
+running scenario: scenarios/sc1/Aurora.map.scen
+ERROR_MISMATCHED_VALUES - Path cost: 7.82843 - optimal cost: 7 - start: (749,97) - goal: (749,104)
+ERROR_MISMATCHED_VALUES - Path cost: 23.2132 - optimal cost: 22.6274 - start: (274,273) - goal: (258,257)
+ERROR_MISMATCHED_VALUES - Path cost: 206.693 - optimal cost: 206.108 - start: (103,700) - goal: (228,565)
+ERROR_MISMATCHED_VALUES - Path cost: 266.806 - optimal cost: 264.321 - start: (739,514) - goal: (519,621)
+ERROR_MISMATCHED_VALUES - Path cost: 265.25 - optimal cost: 264.421 - start: (909,465) - goal: (694,559)
+ERROR_MISMATCHED_VALUES - Path cost: 437.434 - optimal cost: 436.605 - start: (693,113) - goal: (309,228)
+ERROR_MISMATCHED_VALUES - Path cost: 441.505 - optimal cost: 441.404 - start: (884,409) - goal: (589,522)
+ERROR_MISMATCHED_VALUES - Path cost: 565.37 - optimal cost: 565.169 - start: (586,461) - goal: (344,291)
+ERROR_MISMATCHED_VALUES - Path cost: 634.825 - optimal cost: 631.879 - start: (518,167) - goal: (64,477)
+ERROR_MISMATCHED_VALUES - Path cost: 640.068 - optimal cost: 639.24 - start: (413,419) - goal: (868,297)
+ERROR_MISMATCHED_VALUES - Path cost: 657.818 - optimal cost: 656.99 - start: (795,103) - goal: (196,229)
+ERROR_MISMATCHED_VALUES - Path cost: 657.666 - optimal cost: 656.838 - start: (668,601) - goal: (177,283)
+ERROR_MISMATCHED_VALUES - Path cost: 765.767 - optimal cost: 764.779 - start: (818,551) - goal: (766,64)
+ERROR_MISMATCHED_VALUES - Path cost: 769.269 - optimal cost: 767.98 - start: (825,583) - goal: (746,100)
+ERROR_MISMATCHED_VALUES - Path cost: 768.487 - optimal cost: 768.387 - start: (871,244) - goal: (180,320)
+ERROR_MISMATCHED_VALUES - Path cost: 779.276 - optimal cost: 776.933 - start: (688,219) - goal: (132,485)
+ERROR_MISMATCHED_VALUES - Path cost: 847.649 - optimal cost: 844.117 - start: (703,104) - goal: (67,475)
+ERROR_MISMATCHED_VALUES - Path cost: 896.436 - optimal cost: 895.607 - start: (153,353) - goal: (926,611)
+
+running scenario: scenarios/sc1/Aurora.map.scen
+ERROR_MISMATCHED_VALUES - Path cost: 266.806 - optimal cost: 264.321 - start: (739,514) - goal: (519,621)
+ERROR_MISMATCHED_VALUES - Path cost: 437.434 - optimal cost: 436.605 - start: (693,113) - goal: (309,228)
+ERROR_MISMATCHED_VALUES - Path cost: 441.505 - optimal cost: 441.404 - start: (884,409) - goal: (589,522)
+ERROR_MISMATCHED_VALUES - Path cost: 546.767 - optimal cost: 546.08 - start: (826,292) - goal: (696,616)
+ERROR_MISMATCHED_VALUES - Path cost: 565.37 - optimal cost: 565.169 - start: (586,461) - goal: (344,291)
+ERROR_MISMATCHED_VALUES - Path cost: 634.825 - optimal cost: 631.879 - start: (518,167) - goal: (64,477)
+ERROR_MISMATCHED_VALUES - Path cost: 640.068 - optimal cost: 639.24 - start: (413,419) - goal: (868,297)
+ERROR_MISMATCHED_VALUES - Path cost: 657.818 - optimal cost: 656.99 - start: (795,103) - goal: (196,229)
+ERROR_MISMATCHED_VALUES - Path cost: 765.767 - optimal cost: 764.779 - start: (818,551) - goal: (766,64)
+ERROR_MISMATCHED_VALUES - Path cost: 769.269 - optimal cost: 767.98 - start: (825,583) - goal: (746,100)
+ERROR_MISMATCHED_VALUES - Path cost: 768.487 - optimal cost: 768.387 - start: (871,244) - goal: (180,320)
+ERROR_MISMATCHED_VALUES - Path cost: 779.276 - optimal cost: 776.933 - start: (688,219) - goal: (132,485)
+ERROR_MISMATCHED_VALUES - Path cost: 847.649 - optimal cost: 844.117 - start: (703,104) - goal: (67,475)
+ERROR_MISMATCHED_VALUES - Path cost: 896.436 - optimal cost: 895.607 - start: (153,353) - goal: (926,611)
+
+
+running scenario: scenarios/sc1/Aurora.map.scen
+
+running scenario: scenarios/sc1/Aurora.map.scen
+ERROR_MISMATCHED_VALUES - Path cost: 7.82843 - optimal cost: 7 - start: (749,97) - goal: (749,104)
+ERROR_MISMATCHED_VALUES - Path cost: 23.2132 - optimal cost: 22.6274 - start: (274,273) - goal: (258,257)
+ERROR_MISMATCHED_VALUES - Path cost: 266.806 - optimal cost: 264.321 - start: (739,514) - goal: (519,621)
+ERROR_MISMATCHED_VALUES - Path cost: 265.25 - optimal cost: 264.421 - start: (909,465) - goal: (694,559)
+ERROR_MISMATCHED_VALUES - Path cost: 437.434 - optimal cost: 436.605 - start: (693,113) - goal: (309,228)
+ERROR_MISMATCHED_VALUES - Path cost: 441.505 - optimal cost: 441.404 - start: (884,409) - goal: (589,522)
+ERROR_MISMATCHED_VALUES - Path cost: 565.37 - optimal cost: 565.169 - start: (586,461) - goal: (344,291)
+ERROR_MISMATCHED_VALUES - Path cost: 634.825 - optimal cost: 631.879 - start: (518,167) - goal: (64,477)
+ERROR_MISMATCHED_VALUES - Path cost: 640.068 - optimal cost: 639.24 - start: (413,419) - goal: (868,297)
+ERROR_MISMATCHED_VALUES - Path cost: 657.818 - optimal cost: 656.99 - start: (795,103) - goal: (196,229)
+ERROR_MISMATCHED_VALUES - Path cost: 657.666 - optimal cost: 656.838 - start: (668,601) - goal: (177,283)
+ERROR_MISMATCHED_VALUES - Path cost: 765.767 - optimal cost: 764.779 - start: (818,551) - goal: (766,64)
+ERROR_MISMATCHED_VALUES - Path cost: 769.269 - optimal cost: 767.98 - start: (825,583) - goal: (746,100)
+ERROR_MISMATCHED_VALUES - Path cost: 768.487 - optimal cost: 768.387 - start: (871,244) - goal: (180,320)
+ERROR_MISMATCHED_VALUES - Path cost: 779.276 - optimal cost: 776.933 - start: (688,219) - goal: (132,485)
+ERROR_MISMATCHED_VALUES - Path cost: 847.649 - optimal cost: 844.117 - start: (703,104) - goal: (67,475)
+ERROR_MISMATCHED_VALUES - Path cost: 896.436 - optimal cost: 895.607 - start: (153,353) - goal: (926,611)
+
+running scenario: scenarios/sc1/Aurora.map.scen
+ERROR_MISMATCHED_VALUES - Path cost: 266.806 - optimal cost: 264.321 - start: (739,514) - goal: (519,621)
+ERROR_MISMATCHED_VALUES - Path cost: 437.434 - optimal cost: 436.605 - start: (693,113) - goal: (309,228)
+ERROR_MISMATCHED_VALUES - Path cost: 441.505 - optimal cost: 441.404 - start: (884,409) - goal: (589,522)
+ERROR_MISMATCHED_VALUES - Path cost: 546.767 - optimal cost: 546.08 - start: (826,292) - goal: (696,616)
+ERROR_MISMATCHED_VALUES - Path cost: 565.37 - optimal cost: 565.169 - start: (586,461) - goal: (344,291)
+ERROR_MISMATCHED_VALUES - Path cost: 634.825 - optimal cost: 631.879 - start: (518,167) - goal: (64,477)
+ERROR_MISMATCHED_VALUES - Path cost: 640.068 - optimal cost: 639.24 - start: (413,419) - goal: (868,297)
+ERROR_MISMATCHED_VALUES - Path cost: 657.818 - optimal cost: 656.99 - start: (795,103) - goal: (196,229)
+ERROR_MISMATCHED_VALUES - Path cost: 765.767 - optimal cost: 764.779 - start: (818,551) - goal: (766,64)
+ERROR_MISMATCHED_VALUES - Path cost: 769.269 - optimal cost: 767.98 - start: (825,583) - goal: (746,100)
+ERROR_MISMATCHED_VALUES - Path cost: 768.487 - optimal cost: 768.387 - start: (871,244) - goal: (180,320)
+ERROR_MISMATCHED_VALUES - Path cost: 779.276 - optimal cost: 776.933 - start: (688,219) - goal: (132,485)
+ERROR_MISMATCHED_VALUES - Path cost: 847.649 - optimal cost: 844.117 - start: (703,104) - goal: (67,475)
+ERROR_MISMATCHED_VALUES - Path cost: 896.436 - optimal cost: 895.607 - start: (153,353) - goal: (926,611)
+
+
+28. OCTOBER
+
+
+
+running scenario: scenarios/sc1/Aurora.map.scen
+ERROR_MISMATCHED_VALUES - Path cost: 7.82843 - optimal cost: 7 - start: (749,97) - goal: (749,104)
+ERROR_MISMATCHED_VALUES - Path cost: 23.2132 - optimal cost: 22.6274 - start: (274,273) - goal: (258,257)
+ERROR_MISMATCHED_VALUES - Path cost: 265.25 - optimal cost: 264.421 - start: (909,465) - goal: (694,559)
+ERROR_MISMATCHED_VALUES - Path cost: 657.666 - optimal cost: 656.838 - start: (668,601) - goal: (177,283)
+
+running scenario: scenarios/sc1/Aurora.map.scen
+
+New evaluation run:
+
+
+
+running scenario: scenarios/sc1/Aurora.map.scen
+ERROR_MISMATCHED_VALUES - Path cost: 7.82843 - optimal cost: 7 - start: (749,97) - goal: (749,104)
+ERROR_MISMATCHED_VALUES - Path cost: 23.2132 - optimal cost: 22.6274 - start: (274,273) - goal: (258,257)
+
+running scenario: scenarios/sc1/Aurora.map.scen
+
+Newer evaluation run:
+
+
+running scenario: scenarios/sc1/Aurora.map.scen
+
+running scenario: scenarios/sc1/Aurora.map.scen
+
+running scenario: scenarios/sc1/Aurora.map.scen
+
+running scenario: scenarios/sc1/Aurora.map.scen
+
+Hopefully final code:
+
+
+running scenario: scenarios/sc1/AcrosstheCape.map.scen
+
+running scenario: scenarios/sc1/AcrosstheCape.map.scen
+
+
+running scenario: scenarios/sc1/AcrosstheCape.map.scen
+
+running scenario: scenarios/sc1/AcrosstheCape.map.scen
+
+
+running scenario: scenarios/sc1/Aurora.map.scen
+
+running scenario: scenarios/sc1/Aurora.map.scen
+
+running scenario: scenarios/sc1/Aurora.map.scen
+
+ERROR_MISMATCHED_VALUES - Path cost: 1010.8 - optimal cost: 0.01 - start: (563,178) - goal: (361,722)
+ERROR_MISMATCHED_VALUES - Path cost: 1010.8 - optimal cost: 0.01 - start: (563,178) - goal: (361,722)
+
+running scenario: scenarios/sc1/Aurora.map.scen
+
+running scenario: scenarios/sc1/Aurora.map.scen
+
+
+running scenario: scenarios/sc1/Aurora.map.scen
+
+running scenario: scenarios/sc1/Aurora.map.scen
+
+
+running scenario: scenarios/sc1/Aurora.map.scen
+
+running scenario: scenarios/sc1/Aurora.map.scen
+
+
+running scenario: scenarios/sc1/Aurora.map.scen
+
+running scenario: scenarios/sc1/Aurora.map.scen
+
+
+running scenario: scenarios/sc1/Aurora.map.scen
+
+running scenario: scenarios/sc1/Aurora.map.scen
+
+
+running scenario: scenarios/sc1/Aurora.map.scen
+
+running scenario: scenarios/sc1/Aurora.map.scen
+
+
+running scenario: scenarios/sc1/Aurora.map.scen
+
+running scenario: scenarios/sc1/Aurora.map.scen
+
+
+running scenario: scenarios/sc1/Aurora.map.scen
+
+running scenario: scenarios/sc1/Aurora.map.scen
+
+
+running scenario: scenarios/sc1/Aurora.map.scen
+
+running scenario: scenarios/sc1/Aurora.map.scen
+
+
+running scenario: scenarios/sc1/Aurora.map.scen
+
+running scenario: scenarios/sc1/Aurora.map.scen
+
+
+running scenario: scenarios/sc1/Aurora.map.scen
+
+running scenario: scenarios/sc1/Aurora.map.scen
+
+
+running scenario: scenarios/sc1/Aurora.map.scen
+
+running scenario: scenarios/sc1/Aurora.map.scen
+
+
+running scenario: scenarios/sc1/Aurora.map.scen
+ERROR_MISMATCHED_VALUES - Path cost: 807.862 - optimal cost: 807.276 - start: (400,226) - goal: (37,675)
+ERROR_MISMATCHED_VALUES - Path cost: 806.921 - optimal cost: 806.092 - start: (259,184) - goal: (324,688)
+ERROR_MISMATCHED_VALUES - Path cost: 812.122 - optimal cost: 811.293 - start: (88,427) - goal: (721,128)
+ERROR_MISMATCHED_VALUES - Path cost: 809.818 - optimal cost: 808.161 - start: (45,187) - goal: (796,193)
+ERROR_MISMATCHED_VALUES - Path cost: 814.448 - optimal cost: 810.548 - start: (209,76) - goal: (500,585)
+
+running scenario: scenarios/sc1/Aurora.map.scen
+
+
+running scenario: scenarios/sc1/Aurora.map.scen
+ERROR_MISMATCHED_VALUES - Path cost: 409.831 - optimal cost: 407.345 - start: (187,434) - goal: (526,545)
+ERROR_MISMATCHED_VALUES - Path cost: 411.806 - optimal cost: 409.321 - start: (137,504) - goal: (502,569)
+ERROR_MISMATCHED_VALUES - Path cost: 409.434 - optimal cost: 408.605 - start: (627,318) - goal: (671,175)
+ERROR_MISMATCHED_VALUES - Path cost: 415.889 - optimal cost: 412.6 - start: (116,371) - goal: (285,120)
+ERROR_MISMATCHED_VALUES - Path cost: 416.35 - optimal cost: 414.693 - start: (143,415) - goal: (324,142)
+ERROR_MISMATCHED_VALUES - Path cost: 420.439 - optimal cost: 416.539 - start: (506,329) - goal: (901,303)
+ERROR_MISMATCHED_VALUES - Path cost: 419.843 - optimal cost: 419.257 - start: (630,68) - goal: (544,347)
+ERROR_MISMATCHED_VALUES - Path cost: 420.132 - optimal cost: 419.304 - start: (136,625) - goal: (465,460)
+ERROR_MISMATCHED_VALUES - Path cost: 421.853 - optimal cost: 421.024 - start: (467,669) - goal: (70,661)
+ERROR_MISMATCHED_VALUES - Path cost: 428.688 - optimal cost: 427.86 - start: (610,319) - goal: (400,244)
+ERROR_MISMATCHED_VALUES - Path cost: 428.149 - optimal cost: 425.563 - start: (802,723) - goal: (439,616)
+ERROR_MISMATCHED_VALUES - Path cost: 446.179 - optimal cost: 434.463 - start: (464,207) - goal: (850,102)
+ERROR_MISMATCHED_VALUES - Path cost: 436.085 - optimal cost: 433.742 - start: (79,125) - goal: (111,430)
+ERROR_MISMATCHED_VALUES - Path cost: 439.049 - optimal cost: 436.563 - start: (765,176) - goal: (511,305)
+ERROR_MISMATCHED_VALUES - Path cost: 442.772 - optimal cost: 438.63 - start: (305,139) - goal: (473,350)
+ERROR_MISMATCHED_VALUES - Path cost: 443.831 - optimal cost: 443.002 - start: (130,273) - goal: (320,567)
+ERROR_MISMATCHED_VALUES - Path cost: 449.931 - optimal cost: 449.345 - start: (466,505) - goal: (634,429)
+ERROR_MISMATCHED_VALUES - Path cost: 452.931 - optimal cost: 450.002 - start: (328,89) - goal: (234,396)
+ERROR_MISMATCHED_VALUES - Path cost: 459.208 - optimal cost: 449.25 - start: (523,233) - goal: (853,102)
+ERROR_MISMATCHED_VALUES - Path cost: 459.12 - optimal cost: 454.978 - start: (690,102) - goal: (281,117)
+ERROR_MISMATCHED_VALUES - Path cost: 461.63 - optimal cost: 459.973 - start: (447,149) - goal: (586,464)
+ERROR_MISMATCHED_VALUES - Path cost: 469.534 - optimal cost: 467.049 - start: (634,341) - goal: (297,171)
+ERROR_MISMATCHED_VALUES - Path cost: 469.978 - optimal cost: 469.392 - start: (251,216) - goal: (537,357)
+ERROR_MISMATCHED_VALUES - Path cost: 470.161 - optimal cost: 469.333 - start: (271,43) - goal: (684,179)
+ERROR_MISMATCHED_VALUES - Path cost: 473.635 - optimal cost: 471.978 - start: (113,389) - goal: (539,322)
+ERROR_MISMATCHED_VALUES - Path cost: 469.818 - optimal cost: 468.161 - start: (456,307) - goal: (780,204)
+ERROR_MISMATCHED_VALUES - Path cost: 477.742 - optimal cost: 474.671 - start: (588,579) - goal: (827,409)
+ERROR_MISMATCHED_VALUES - Path cost: 484.671 - optimal cost: 482.186 - start: (148,716) - goal: (101,370)
+
+running scenario: scenarios/sc1/Aurora.map.scen
+
+
+running scenario: scenarios/sc1/Aurora.map.scen
+ERROR_MISMATCHED_VALUES - Path cost: 612.843 - optimal cost: 612.014 - start: (249,203) - goal: (303,543)
+ERROR_MISMATCHED_VALUES - Path cost: 617.848 - optimal cost: 617.019 - start: (315,53) - goal: (153,513)
+ERROR_MISMATCHED_VALUES - Path cost: 623.914 - optimal cost: 623.328 - start: (345,553) - goal: (615,323)
+ERROR_MISMATCHED_VALUES - Path cost: 620.914 - optimal cost: 620.085 - start: (506,373) - goal: (556,684)
+ERROR_MISMATCHED_VALUES - Path cost: 626.061 - optimal cost: 625.233 - start: (89,418) - goal: (655,319)
+ERROR_MISMATCHED_VALUES - Path cost: 630.909 - optimal cost: 630.08 - start: (414,436) - goal: (685,117)
+
+running scenario: scenarios/sc1/Aurora.map.scen
+
+
+running scenario: scenarios/sc1/Aurora.map.scen
+ERROR_MISMATCHED_VALUES - Path cost: 807.862 - optimal cost: 807.276 - start: (400,226) - goal: (37,675)
+ERROR_MISMATCHED_VALUES - Path cost: 806.921 - optimal cost: 806.092 - start: (259,184) - goal: (324,688)
+ERROR_MISMATCHED_VALUES - Path cost: 812.122 - optimal cost: 811.293 - start: (88,427) - goal: (721,128)
+ERROR_MISMATCHED_VALUES - Path cost: 809.818 - optimal cost: 808.161 - start: (45,187) - goal: (796,193)
+ERROR_MISMATCHED_VALUES - Path cost: 814.448 - optimal cost: 810.548 - start: (209,76) - goal: (500,585)
+ERROR_MISMATCHED_VALUES - Path cost: 814.186 - optimal cost: 813.357 - start: (915,288) - goal: (182,162)
+ERROR_MISMATCHED_VALUES - Path cost: 817.087 - optimal cost: 815.33 - start: (568,663) - goal: (558,190)
+ERROR_MISMATCHED_VALUES - Path cost: 820.732 - optimal cost: 817.217 - start: (368,494) - goal: (765,67)
+ERROR_MISMATCHED_VALUES - Path cost: 820.749 - optimal cost: 819.921 - start: (142,501) - goal: (753,162)
+ERROR_MISMATCHED_VALUES - Path cost: 822.482 - optimal cost: 819.654 - start: (696,76) - goal: (815,597)
+ERROR_MISMATCHED_VALUES - Path cost: 824.541 - optimal cost: 823.713 - start: (801,433) - goal: (68,370)
+
+running scenario: scenarios/sc1/Aurora.map.scen
+
+
+running scenario: scenarios/sc1/Aurora.map.scen
+ERROR_MISMATCHED_VALUES - Path cost: 1008.63 - optimal cost: 1007.8 - start: (135,642) - goal: (734,140)
+ERROR_MISMATCHED_VALUES - Path cost: 1007.48 - optimal cost: 1006.89 - start: (848,125) - goal: (4,449)
+
+running scenario: scenarios/sc1/Aurora.map.scen
+
+
+running scenario: scenarios/sc1/Aurora.map.scen
+ERROR_MISMATCHED_VALUES - Path cost: 1194.27 - optimal cost: 1193.34 - start: (331,671) - goal: (866,103)
+
+running scenario: scenarios/sc1/Aurora.map.scen
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29. October
+
+
+
+
+
+running scenario: scenarios/sc1/Aurora.map.scen
+
+running scenario: scenarios/sc1/Aurora.map.scen
+
+
+running scenario: scenarios/sc1/Aurora.map.scen
+
+running scenario: scenarios/sc1/Aurora.map.scen
+
+
+running scenario: scenarios/sc1/Aurora.map.scen
+
+running scenario: scenarios/sc1/Aurora.map.scen
+
+
+running scenario: scenarios/sc1/Aurora.map.scen
+
+running scenario: scenarios/sc1/Aurora.map.scen
+
+
+running scenario: scenarios/sc1/Aurora.map.scen
+
+running scenario: scenarios/sc1/Aurora.map.scen
+
+
+running scenario: scenarios/sc1/Aurora.map.scen
+
+running scenario: scenarios/sc1/Aurora.map.scen
+
+
+running scenario: scenarios/sc1/GreenerPastures.map.scen
+running scenario: scenarios/sc1/GreenerPastures.map.scen
+
+running scenario: scenarios/sc1/GreenerPastures.map.scen
+running scenario: scenarios/sc1/GreenerPastures.map.scen
+
+
+running scenario: scenarios/sc1/GreenerPastures.map.scen
+running scenario: scenarios/sc1/GreenerPastures.map.scen
+
+running scenario: scenarios/sc1/GreenerPastures.map.scen
+running scenario: scenarios/sc1/GreenerPastures.map.scen
+
+
+running scenario: scenarios/sc1/AcrosstheCape.map.scen
+
+running scenario: scenarios/sc1/AcrosstheCape.map.scen
+
+
+running scenario: scenarios/sc1/Aftershock.map.scen
+
+running scenario: scenarios/sc1/Aftershock.map.scen
+
+
+running scenario: scenarios/sc1/Archipelago.map.scen
+
+running scenario: scenarios/sc1/Archipelago.map.scen
+
+
+running scenario: scenarios/sc1/ArcticStation.map.scen
+
+running scenario: scenarios/sc1/ArcticStation.map.scen
+
+
+running scenario: scenarios/sc1/Backwoods.map.scen
+
+running scenario: scenarios/sc1/Backwoods.map.scen
+
+
+running scenario: scenarios/sc1/BigGameHunters.map.scen
+
+running scenario: scenarios/sc1/BigGameHunters.map.scen
+
+
+running scenario: scenarios/sc1/BlackLotus.map.scen
+
+running scenario: scenarios/sc1/BlackLotus.map.scen
+
+
+running scenario: scenarios/sc1/BlastFurnace.map.scen
+
+running scenario: scenarios/sc1/BlastFurnace.map.scen
+
+
+running scenario: scenarios/sc1/BrokenSteppes.map.scen
+
+running scenario: scenarios/sc1/BrokenSteppes.map.scen
+
+
+running scenario: scenarios/sc1/Brushfire.map.scen
+
+running scenario: scenarios/sc1/Brushfire.map.scen
+
+
+running scenario: scenarios/sc1/Caldera.map.scen
+
+running scenario: scenarios/sc1/Caldera.map.scen
+
+
+running scenario: scenarios/sc1/CatwalkAlley.map.scen
+
+running scenario: scenarios/sc1/CatwalkAlley.map.scen
+
+
+running scenario: scenarios/sc1/Cauldron.map.scen
+
+running scenario: scenarios/sc1/Cauldron.map.scen
+
+
+running scenario: scenarios/sc1/CrashSites.map.scen
+
+running scenario: scenarios/bg2/AR0018SR.map.scen
+
+running scenario: scenarios/bg2/AR0018SR.map.scen
+
+
+running scenario: scenarios/bg2/AR0018SR.map.scen
+
+running scenario: scenarios/bg2/AR0018SR.map.scen
+
+
+running scenario: scenarios/bg2/AR0018SR.map.scen
+
+running scenario: scenarios/bg2/AR0018SR.map.scen
+
+
+running scenario: scenarios/bg2/AR0018SR.map.scen
+
+running scenario: scenarios/bg2/AR0018SR.map.scen
+
+
+running scenario: scenarios/bg2/AR0041SR.map.scen
+
+running scenario: scenarios/bg2/AR0041SR.map.scen
+
+
+running scenario: scenarios/bg2/AR0041SR.map.scen
+
+running scenario: scenarios/bg2/AR0041SR.map.scen
+
+
+running scenario: scenarios/bg2/AR0042SR.map.scen
+
+running scenario: scenarios/bg2/AR0042SR.map.scen
+
+
+running scenario: scenarios/bg2/AR0304SR.map.scen
+
+running scenario: scenarios/bg2/AR0304SR.map.scen
+
+
+running scenario: scenarios/bg2/AR0412SR.map.scen
+
+running scenario: scenarios/bg2/AR0412SR.map.scen
+
+
+running scenario: scenarios/bg2/AR0418SR.map.scen
+
+running scenario: scenarios/bg2/AR0418SR.map.scen
+
+
+running scenario: scenarios/bg2/AR0500SR.map.scen
+
+running scenario: scenarios/bg2/AR0500SR.map.scen
+
+
+running scenario: scenarios/bg2/AR0412SR.map.scen
+
+running scenario: scenarios/bg2/AR0412SR.map.scen
+
+running scenario: scenarios/bg2/AR0418SR.map.scen
+running scenario: scenarios/bg2/AR0418SR.map.scen
+
+running scenario: scenarios/bg2/AR0418SR.map.scen
+running scenario: scenarios/bg2/AR0418SR.map.scen
+
+
+running scenario: scenarios/bg2/AR0418SR.map.scen
+running scenario: scenarios/bg2/AR0418SR.map.scen
+running scenario: scenarios/bg2/AR0418SR.map.scen
+running scenario: scenarios/bg2/AR0418SR.map.scen
+
+
+
+running scenario: scenarios/bg2/AR0500SR.map.scen
+running scenario: scenarios/bg2/AR0500SR.map.scen
+running scenario: scenarios/bg2/AR0500SR.map.scen
+running scenario: scenarios/bg2/AR0500SR.map.scen
+
+
+
+running scenario: scenarios/sc1/AcrosstheCape.map.scen
+running scenario: scenarios/sc1/AcrosstheCape.map.scen
+running scenario: scenarios/sc1/AcrosstheCape.map.scen
+running scenario: scenarios/sc1/AcrosstheCape.map.scen
+
+
+
+running scenario: scenarios/sc1/Aftershock.map.scen
+running scenario: scenarios/sc1/Aftershock.map.scen
+running scenario: scenarios/sc1/Aftershock.map.scen
+running scenario: scenarios/sc1/Aftershock.map.scen
+
+
+
+running scenario: scenarios/sc1/Archipelago.map.scen
+running scenario: scenarios/sc1/Archipelago.map.scen
+running scenario: scenarios/sc1/Archipelago.map.scen
+running scenario: scenarios/sc1/Archipelago.map.scen
+
+
+
+running scenario: scenarios/sc1/ArcticStation.map.scen
+running scenario: scenarios/sc1/ArcticStation.map.scen
+running scenario: scenarios/sc1/ArcticStation.map.scen
+running scenario: scenarios/sc1/ArcticStation.map.scen
+
+
+
+running scenario: scenarios/sc1/Aurora.map.scen
+running scenario: scenarios/sc1/Aurora.map.scen
+running scenario: scenarios/sc1/Aurora.map.scen
+running scenario: scenarios/sc1/Aurora.map.scen
+
+
+
+running scenario: scenarios/sc1/Backwoods.map.scen
+running scenario: scenarios/sc1/Backwoods.map.scen
+
+
+running scenario: scenarios/sc1/Backwoods.map.scen
+running scenario: scenarios/sc1/Backwoods.map.scen
+running scenario: scenarios/sc1/Backwoods.map.scen
+running scenario: scenarios/sc1/Backwoods.map.scen
+
+
+
+running scenario: scenarios/sc1/BigGameHunters.map.scen
+running scenario: scenarios/sc1/BigGameHunters.map.scen
+running scenario: scenarios/sc1/BigGameHunters.map.scen
+running scenario: scenarios/sc1/BigGameHunters.map.scen
+
+
+
+running scenario: scenarios/sc1/BlackLotus.map.scen
+running scenario: scenarios/sc1/BlackLotus.map.scen
+running scenario: scenarios/sc1/BlackLotus.map.scen
+running scenario: scenarios/sc1/BlackLotus.map.scen
+
+
+
+running scenario: scenarios/sc1/BlastFurnace.map.scen
+
+
+running scenario: scenarios/sc1/BlastFurnace.map.scen
+running scenario: scenarios/sc1/BlastFurnace.map.scen
+running scenario: scenarios/sc1/BlastFurnace.map.scen
+running scenario: scenarios/sc1/BlastFurnace.map.scen
+
+
+
+running scenario: scenarios/sc1/BrokenSteppes.map.scen
+running scenario: scenarios/sc1/BrokenSteppes.map.scen
+running scenario: scenarios/sc1/BrokenSteppes.map.scen
+running scenario: scenarios/sc1/BrokenSteppes.map.scen
+
+
+
+running scenario: scenarios/sc1/Brushfire.map.scen
+running scenario: scenarios/sc1/Brushfire.map.scen
+running scenario: scenarios/sc1/Brushfire.map.scen
+running scenario: scenarios/sc1/Brushfire.map.scen
+
+
+
+running scenario: scenarios/sc1/Caldera.map.scen
+running scenario: scenarios/sc1/Caldera.map.scen
+running scenario: scenarios/sc1/Caldera.map.scen
+running scenario: scenarios/sc1/Caldera.map.scen
+
+
+
+running scenario: scenarios/sc1/CatwalkAlley.map.scen
+running scenario: scenarios/sc1/CatwalkAlley.map.scen
+running scenario: scenarios/sc1/CatwalkAlley.map.scen
+running scenario: scenarios/sc1/CatwalkAlley.map.scen
+
+
+
+running scenario: scenarios/sc1/Cauldron.map.scen
+running scenario: scenarios/sc1/Cauldron.map.scen
+running scenario: scenarios/sc1/Cauldron.map.scen
+running scenario: scenarios/sc1/Cauldron.map.scen
+
+
+
+running scenario: scenarios/sc1/CrashSites.map.scen
+running scenario: scenarios/sc1/CrashSites.map.scen
+running scenario: scenarios/sc1/CrashSites.map.scen
+running scenario: scenarios/sc1/CrashSites.map.scen
+
+
+
+running scenario: scenarios/sc1/CrescentMoon.map.scen
+running scenario: scenarios/sc1/CrescentMoon.map.scen
+running scenario: scenarios/sc1/CrescentMoon.map.scen
+running scenario: scenarios/sc1/CrescentMoon.map.scen
+
+
+
+running scenario: scenarios/sc1/Crossroads.map.scen
+running scenario: scenarios/sc1/Crossroads.map.scen
+running scenario: scenarios/sc1/Crossroads.map.scen
+running scenario: scenarios/sc1/Crossroads.map.scen
+
+
+
+running scenario: scenarios/sc1/DarkContinent.map.scen
+running scenario: scenarios/sc1/DarkContinent.map.scen
+running scenario: scenarios/sc1/DarkContinent.map.scen
+running scenario: scenarios/sc1/DarkContinent.map.scen
+
+
+
+running scenario: scenarios/sc1/Desolation.map.scen
+running scenario: scenarios/sc1/Desolation.map.scen
+running scenario: scenarios/sc1/Desolation.map.scen
+running scenario: scenarios/sc1/Desolation.map.scen
+
+
+
+running scenario: scenarios/sc1/EbonLakes.map.scen
+running scenario: scenarios/sc1/EbonLakes.map.scen
+running scenario: scenarios/sc1/EbonLakes.map.scen
+running scenario: scenarios/sc1/EbonLakes.map.scen
+
+
+
+running scenario: scenarios/sc1/Elderlands.map.scen
+running scenario: scenarios/sc1/Elderlands.map.scen
+running scenario: scenarios/sc1/Elderlands.map.scen
+running scenario: scenarios/sc1/Elderlands.map.scen
+
+
+
+running scenario: scenarios/sc1/Enigma.map.scen
+running scenario: scenarios/sc1/Enigma.map.scen
+running scenario: scenarios/sc1/Enigma.map.scen
+running scenario: scenarios/sc1/Enigma.map.scen
+
+
+
+running scenario: scenarios/sc1/Entanglement.map.scen
+running scenario: scenarios/sc1/Entanglement.map.scen
+running scenario: scenarios/sc1/Entanglement.map.scen
+running scenario: scenarios/sc1/Entanglement.map.scen
+
+
+
+running scenario: scenarios/sc1/Eruption.map.scen
+running scenario: scenarios/sc1/Eruption.map.scen
+running scenario: scenarios/sc1/Eruption.map.scen
+running scenario: scenarios/sc1/Eruption.map.scen
+
+
+
+running scenario: scenarios/sc1/Expedition.map.scen
+running scenario: scenarios/sc1/Expedition.map.scen
+running scenario: scenarios/sc1/Expedition.map.scen
+running scenario: scenarios/sc1/Expedition.map.scen
+
+
+
+running scenario: scenarios/sc1/FireWalker.map.scen
+running scenario: scenarios/sc1/FireWalker.map.scen
+running scenario: scenarios/sc1/FireWalker.map.scen
+running scenario: scenarios/sc1/FireWalker.map.scen
+
+
+
+running scenario: scenarios/sc1/FloodedPlains.map.scen
+running scenario: scenarios/sc1/FloodedPlains.map.scen
+running scenario: scenarios/sc1/FloodedPlains.map.scen
+running scenario: scenarios/sc1/FloodedPlains.map.scen
+
+
+
+running scenario: scenarios/sc1/GhostTown.map.scen
+running scenario: scenarios/sc1/GhostTown.map.scen
+running scenario: scenarios/sc1/GhostTown.map.scen
+running scenario: scenarios/sc1/GhostTown.map.scen
+
+
+
+running scenario: scenarios/sc1/GladiatorPits.map.scen
+running scenario: scenarios/sc1/GladiatorPits.map.scen
+running scenario: scenarios/sc1/GladiatorPits.map.scen
+running scenario: scenarios/sc1/GladiatorPits.map.scen
+
+
+
+running scenario: scenarios/sc1/GreenerPastures.map.scen
+running scenario: scenarios/sc1/GreenerPastures.map.scen
+running scenario: scenarios/sc1/GreenerPastures.map.scen
+running scenario: scenarios/sc1/GreenerPastures.map.scen
+
+
+
+running scenario: scenarios/sc1/Hellfire.map.scen
+running scenario: scenarios/sc1/Hellfire.map.scen
+running scenario: scenarios/sc1/Hellfire.map.scen
+running scenario: scenarios/sc1/Hellfire.map.scen
+
+
+
+running scenario: scenarios/bg2/AR0011SR.map.scen
+running scenario: scenarios/bg2/AR0011SR.map.scen
+running scenario: scenarios/bg2/AR0011SR.map.scen
+running scenario: scenarios/bg2/AR0011SR.map.scen
+
+
+
+running scenario: scenarios/bg2/AR0012SR.map.scen
+running scenario: scenarios/bg2/AR0012SR.map.scen
+
+
+running scenario: scenarios/bg2/AR0012SR.map.scen
+running scenario: scenarios/bg2/AR0012SR.map.scen
+
+
+
+running scenario: scenarios/bg2/AR0016SR.map.scen
+running scenario: scenarios/bg2/AR0016SR.map.scen
+
+
+
+running scenario: scenarios/bg2/AR0017SR.map.scen
+running scenario: scenarios/bg2/AR0017SR.map.scen
+
+
+
+running scenario: scenarios/bg2/AR0018SR.map.scen
+running scenario: scenarios/bg2/AR0018SR.map.scen
+
+
+
+running scenario: scenarios/bg2/AR0020SR.map.scen
+running scenario: scenarios/bg2/AR0020SR.map.scen
+
+
+
+running scenario: scenarios/bg2/AR0041SR.map.scen
+running scenario: scenarios/bg2/AR0041SR.map.scen
+
+
+
+running scenario: scenarios/bg2/AR0042SR.map.scen
+running scenario: scenarios/bg2/AR0042SR.map.scen
+
+
+
+running scenario: scenarios/bg2/AR0043SR.map.scen
+running scenario: scenarios/bg2/AR0043SR.map.scen
+
+
+
+running scenario: scenarios/bg2/AR0044SR.map.scen
+running scenario: scenarios/bg2/AR0044SR.map.scen
+
+
+
+running scenario: scenarios/bg2/AR0045SR.map.scen
+running scenario: scenarios/bg2/AR0045SR.map.scen
+
+
+
+running scenario: scenarios/bg2/AR0046SR.map.scen
+running scenario: scenarios/bg2/AR0046SR.map.scen
+
+
+
+running scenario: scenarios/bg2/AR0070SR.map.scen
+running scenario: scenarios/bg2/AR0070SR.map.scen
+
+
+
+running scenario: scenarios/bg2/AR0071SR.map.scen
+running scenario: scenarios/bg2/AR0071SR.map.scen
+
+
+
+running scenario: scenarios/bg2/AR0072SR.map.scen
+running scenario: scenarios/bg2/AR0072SR.map.scen
+
+
+
+running scenario: scenarios/bg2/AR0201SR.map.scen
+running scenario: scenarios/bg2/AR0201SR.map.scen
+
+
+
+running scenario: scenarios/bg2/AR0202SR.map.scen
+running scenario: scenarios/bg2/AR0202SR.map.scen
+
+
+
+running scenario: scenarios/bg2/AR0203SR.map.scen
+running scenario: scenarios/bg2/AR0203SR.map.scen
+
+
+
+running scenario: scenarios/bg2/AR0205SR.map.scen
+running scenario: scenarios/bg2/AR0205SR.map.scen
+
+
+
+running scenario: scenarios/bg2/AR0206SR.map.scen
+running scenario: scenarios/bg2/AR0206SR.map.scen
+
+
+
+running scenario: scenarios/bg2/AR0300SR.map.scen
+running scenario: scenarios/bg2/AR0300SR.map.scen
+
+
+
+running scenario: scenarios/bg2/AR0302SR.map.scen
+running scenario: scenarios/bg2/AR0302SR.map.scen
+
+
+
+running scenario: scenarios/bg2/AR0304SR.map.scen
+running scenario: scenarios/bg2/AR0304SR.map.scen
+
+
+
+running scenario: scenarios/bg2/AR0306SR.map.scen
+running scenario: scenarios/bg2/AR0306SR.map.scen
+
+
+
+running scenario: scenarios/bg2/AR0308SR.map.scen
+running scenario: scenarios/bg2/AR0308SR.map.scen
+
+
+
+running scenario: scenarios/bg2/AR0400SR.map.scen
+running scenario: scenarios/bg2/AR0400SR.map.scen
+
+
+
+running scenario: scenarios/bg2/AR0404SR.map.scen
+running scenario: scenarios/bg2/AR0404SR.map.scen
+
+
+
+running scenario: scenarios/bg2/AR0405SR.map.scen
+running scenario: scenarios/bg2/AR0405SR.map.scen
+
+
+
+running scenario: scenarios/bg2/AR0406SR.map.scen
+running scenario: scenarios/bg2/AR0406SR.map.scen
+
+
+
+running scenario: scenarios/bg2/AR0412SR.map.scen
+running scenario: scenarios/bg2/AR0412SR.map.scen
+
+
+
+running scenario: scenarios/bg2/AR0418SR.map.scen
+running scenario: scenarios/bg2/AR0418SR.map.scen
+
+
+
+running scenario: scenarios/bg2/AR0500SR.map.scen
+running scenario: scenarios/bg2/AR0500SR.map.scen
+
+
+
+running scenario: scenarios/bg2/AR0526SR.map.scen
+running scenario: scenarios/bg2/AR0526SR.map.scen
+
+
+
+running scenario: scenarios/bg2/AR0600SR.map.scen
+running scenario: scenarios/bg2/AR0600SR.map.scen
+
+
+
+running scenario: scenarios/bg2/AR0602SR.map.scen
+running scenario: scenarios/bg2/AR0602SR.map.scen
+
+
+
+running scenario: scenarios/bg2/AR0605SR.map.scen
+running scenario: scenarios/bg2/AR0605SR.map.scen
+
+
+
+running scenario: scenarios/bg2/AR0700SR.map.scen
+running scenario: scenarios/bg2/AR0700SR.map.scen
+
+
+
+running scenario: scenarios/bg2/AR0711SR.map.scen
+running scenario: scenarios/bg2/AR0711SR.map.scen
+
+
+
+running scenario: scenarios/sc1/AcrosstheCape.map.scen
+running scenario: scenarios/sc1/AcrosstheCape.map.scen
+running scenario: scenarios/sc1/AcrosstheCape.map.scen
+running scenario: scenarios/sc1/AcrosstheCape.map.scen
+
+maps/sc1_low_res/AcrosstheCape.map decomposed in 0.141228 seconds with 54 gates
+maps/sc1_low_res/ArcticStation.map decomposed in 0.401776 seconds with 21 gates
+maps/sc1_low_res/Backwoods.map decomposed in 0.069551 seconds with 26 gates
+maps/sc1_low_res/BigGameHunters.map decomposed in 0.043854 seconds with 18 gates
+maps/sc1_low_res/BlackLotus.map decomposed in 0.122247 seconds with 45 gates
+maps/sc1_low_res/BlastFurnace.map decomposed in 0.173317 seconds with 53 gates
+maps/sc1_low_res/BrokenSteppes.map decomposed in 0.273779 seconds with 63 gates
+maps/sc1_low_res/Brushfire.map decomposed in 0.045454 seconds with 28 gates
+maps/sc1_low_res/CatwalkAlley.map decomposed in 0.119297 seconds with 51 gates
+maps/sc1_low_res/Cauldron.map decomposed in 0.660286 seconds with 111 gates
+maps/sc1_low_res/Crossroads.map decomposed in 0.186554 seconds with 28 gates
+maps/sc1_low_res/DarkContinent.map decomposed in 0.118168 seconds with 28 gates
+maps/sc1_low_res/Elderlands.map decomposed in 0.185342 seconds with 39 gates
+maps/sc1_low_res/Enigma.map decomposed in 0.122891 seconds with 37 gates
+maps/sc1_low_res/FireWalker.map decomposed in 0.030596 seconds with 8 gates
+maps/sc1_low_res/FloodedPlains.map decomposed in 0.262708 seconds with 71 gates
+maps/sc1_low_res/GladiatorPits.map decomposed in 0.133512 seconds with 37 gates
+
+
+running scenario: scenarios/sc1/Archipelago.map.scen
+running scenario: scenarios/sc1/Archipelago.map.scen
+running scenario: scenarios/sc1/Archipelago.map.scen
+running scenario: scenarios/sc1/Archipelago.map.scen
+
+
+
+running scenario: scenarios/sc1/Aurora.map.scen
+running scenario: scenarios/sc1/Aurora.map.scen
+running scenario: scenarios/sc1/Aurora.map.scen
+running scenario: scenarios/sc1/Aurora.map.scen
+
+
+
+running scenario: scenarios/sc1/Caldera.map.scen
+running scenario: scenarios/sc1/Caldera.map.scen
+running scenario: scenarios/sc1/Caldera.map.scen
+running scenario: scenarios/sc1/Caldera.map.scen
+
+
+
+running scenario: scenarios/sc1/CrashSites.map.scen
+running scenario: scenarios/sc1/CrashSites.map.scen
+running scenario: scenarios/sc1/CrashSites.map.scen
+running scenario: scenarios/sc1/CrashSites.map.scen
+
+
+
+running scenario: scenarios/sc1/CrescentMoon.map.scen
+running scenario: scenarios/sc1/CrescentMoon.map.scen
+running scenario: scenarios/sc1/CrescentMoon.map.scen
+running scenario: scenarios/sc1/CrescentMoon.map.scen
+
+
+
+running scenario: scenarios/sc1/Entanglement.map.scen
+running scenario: scenarios/sc1/Entanglement.map.scen
+running scenario: scenarios/sc1/Entanglement.map.scen
+running scenario: scenarios/sc1/Entanglement.map.scen
+
+
+
+running scenario: scenarios/sc1/Expedition.map.scen
+running scenario: scenarios/sc1/Expedition.map.scen
+running scenario: scenarios/sc1/Expedition.map.scen
+running scenario: scenarios/sc1/Expedition.map.scen
+
+
+
+running scenario: scenarios/sc1/GhostTown.map.scen
+running scenario: scenarios/sc1/GhostTown.map.scen
+running scenario: scenarios/sc1/GhostTown.map.scen
+running scenario: scenarios/sc1/GhostTown.map.scen
+
+
+
+running scenario: scenarios/sc1/GreenerPastures.map.scen
+running scenario: scenarios/sc1/GreenerPastures.map.scen
+running scenario: scenarios/sc1/GreenerPastures.map.scen
+running scenario: scenarios/sc1/GreenerPastures.map.scen
+
+
+
+running scenario: scenarios/sc1/CrashSites.map.scen
+running scenario: scenarios/sc1/CrashSites.map.scen
+running scenario: scenarios/sc1/CrashSites.map.scen
+running scenario: scenarios/sc1/CrashSites.map.scen
+
+
+
+running scenario: scenarios/sc1/CrashSites.map.scen
+running scenario: scenarios/sc1/CrashSites.map.scen
+
+
+
+running scenario: scenarios/sc1/CrashSites.map.scen
+running scenario: scenarios/sc1/CrashSites.map.scen
+
+
+
+running scenario: scenarios/sc1/CrashSites.map.scen
+running scenario: scenarios/sc1/CrashSites.map.scen
+
+
+
+running scenario: scenarios/sc1/CrashSites.map.scen
+running scenario: scenarios/sc1/CrashSites.map.scen
+
+
+
+running scenario: scenarios/sc1/CrashSites.map.scen
+running scenario: scenarios/sc1/CrashSites.map.scen
+
+
+
+running scenario: scenarios/sc1/CrashSites.map.scen
+running scenario: scenarios/sc1/CrashSites.map.scen
+
+
+
+running scenario: scenarios/sc1/CrashSites.map.scen
+running scenario: scenarios/sc1/CrashSites.map.scen
+
+
+
+running scenario: scenarios/sc1/CrashSites.map.scen
+running scenario: scenarios/sc1/CrashSites.map.scen
+
+
+
+running scenario: scenarios/sc1/CrashSites.map.scen
+running scenario: scenarios/sc1/CrashSites.map.scen
+
+
+
+running scenario: scenarios/sc1/CrashSites.map.scen
+running scenario: scenarios/sc1/CrashSites.map.scen
+
+ERROR_MISMATCHED_VALUES - Path cost: 812.389 - optimal cost: 807.117 - start: (520,532) - goal: (122,2)
+ERROR_MISMATCHED_VALUES - Path cost: 818.306 - optimal cost: 804.548 - start: (696,608) - goal: (252,248)
+
+
+running scenario: scenarios/sc1/CrashSites.map.scen
+running scenario: scenarios/sc1/CrashSites.map.scen
+running scenario: scenarios/sc1/CrashSites.map.scen
+running scenario: scenarios/sc1/CrashSites.map.scen
+
+
+
+running scenario: scenarios/sc1/GreenerPastures.map.scen
+running scenario: scenarios/sc1/GreenerPastures.map.scen
+running scenario: scenarios/sc1/GreenerPastures.map.scen
+
+
+running scenario: scenarios/bg2/AR0600SR.map.scen
+running scenario: scenarios/bg2/AR0600SR.map.scen
+
+
+
+running scenario: scenarios/bg2/AR0600SR.map.scen
+running scenario: scenarios/bg2/AR0600SR.map.scen
+
+
+
+running scenario: scenarios/bg2/AR0600SR.map.scen
+running scenario: scenarios/bg2/AR0600SR.map.scen
+
+
+
+_________________________MICROPATHER__________________________
+
+
+
+running scenario: scenarios/bg2/AR0526SR.map.scen
+running scenario: scenarios/bg2/AR0526SR.map.scen
+
+
+
+running scenario: scenarios/bg2/AR0600SR.map.scen
+running scenario: scenarios/bg2/AR0600SR.map.scen
+
+
+
+running scenario: scenarios/bg2/AR0602SR.map.scen
+running scenario: scenarios/bg2/AR0602SR.map.scen
+
+
+
+running scenario: scenarios/sc1/GreenerPastures.map.scen
+running scenario: scenarios/sc1/GreenerPastures.map.scen
+
+
+running scenario: scenarios/sc1/ArcticStation.map.scen
+running scenario: scenarios/sc1/ArcticStation.map.scen
+running scenario: scenarios/sc1/ArcticStation.map.scen
+running scenario: scenarios/sc1/ArcticStation.map.scen
+
+
+
+running scenario: scenarios/sc1/Aurora.map.scen
+running scenario: scenarios/sc1/Aurora.map.scen
+running scenario: scenarios/sc1/Aurora.map.scen
+running scenario: scenarios/sc1/Aurora.map.scen
+
+
+
+running scenario: scenarios/sc1/Backwoods.map.scen
+running scenario: scenarios/sc1/Backwoods.map.scen
+running scenario: scenarios/sc1/Backwoods.map.scen
+running scenario: scenarios/sc1/Backwoods.map.scen
+
+
+
+running scenario: scenarios/sc1/GladiatorPits.map.scen
+running scenario: scenarios/sc1/GladiatorPits.map.scen
+running scenario: scenarios/sc1/GladiatorPits.map.scen
+running scenario: scenarios/sc1/GladiatorPits.map.scen
+
+
+
+running scenario: scenarios/sc1/GreenerPastures.map.scen
+running scenario: scenarios/sc1/GreenerPastures.map.scen
+running scenario: scenarios/sc1/GreenerPastures.map.scen
+running scenario: scenarios/sc1/GreenerPastures.map.scen
+
+
+
+
+
+//KAHA Astar again
+
+
+
+
+running scenario: scenarios/sc1/ArcticStation.map.scen
+running scenario: scenarios/sc1/ArcticStation.map.scen
+running scenario: scenarios/sc1/ArcticStation.map.scen
+running scenario: scenarios/sc1/ArcticStation.map.scen
+
+
+
+running scenario: scenarios/sc1/Aurora.map.scen
+running scenario: scenarios/sc1/Aurora.map.scen
+running scenario: scenarios/sc1/Aurora.map.scen
+running scenario: scenarios/sc1/Aurora.map.scen
+
+
+
+running scenario: scenarios/sc1/Backwoods.map.scen
+running scenario: scenarios/sc1/Backwoods.map.scen
+running scenario: scenarios/sc1/Backwoods.map.scen
+running scenario: scenarios/sc1/Backwoods.map.scen
+
+
+
+running scenario: scenarios/sc1/GladiatorPits.map.scen
+running scenario: scenarios/sc1/GladiatorPits.map.scen
+running scenario: scenarios/sc1/GladiatorPits.map.scen
+running scenario: scenarios/sc1/GladiatorPits.map.scen
+
+
+
+running scenario: scenarios/sc1/GreenerPastures.map.scen
+running scenario: scenarios/sc1/GreenerPastures.map.scen
+
+
+running scenario: scenarios/sc1/AcrosstheCape.map.scen
+
+
+running scenario: scenarios/sc1/AcrosstheCape.map.scen
+
+
+running scenario: scenarios/sc1/AcrosstheCape.map.scen
+
+
+running scenario: scenarios/sc1/AcrosstheCape.map.scen
+running scenario: scenarios/sc1/AcrosstheCape.map.scen
+running scenario: scenarios/sc1/AcrosstheCape.map.scen
+running scenario: scenarios/sc1/AcrosstheCape.map.scen
+
+
+
+running scenario: scenarios/sc1/AcrosstheCape.map.scen
+running scenario: scenarios/sc1/AcrosstheCape.map.scen
+running scenario: scenarios/sc1/AcrosstheCape.map.scen
+running scenario: scenarios/sc1/AcrosstheCape.map.scen
+
+
+running scenario: scenarios/sc1/Aftershock.map.scen
+running scenario: scenarios/sc1/Aftershock.map.scen
+
+
+running scenario: scenarios/sc1/Archipelago.map.scen
+
+
+
+running scenario: scenarios/sc1/ArcticStation.map.scen
+running scenario: scenarios/sc1/ArcticStation.map.scen
+
+
+
+running scenario: scenarios/sc1/AcrosstheCape.map.scen
+running scenario: scenarios/sc1/AcrosstheCape.map.scen
+running scenario: scenarios/sc1/AcrosstheCape.map.scen
+running scenario: scenarios/sc1/AcrosstheCape.map.scen
+
+
+running scenario: scenarios/sc1/Aftershock.map.scen
+running scenario: scenarios/sc1/Aftershock.map.scen
+
+
+running scenario: scenarios/sc1/Archipelago.map.scen
+
+
+
+running scenario: scenarios/sc1/ArcticStation.map.scen
+running scenario: scenarios/sc1/ArcticStation.map.scen
+
+
+running scenario: scenarios/sc1/AcrosstheCape.map.scen
+
+running scenario: scenarios/sc1/AcrosstheCape.map.scen
+
+
+running scenario: scenarios/sc1/AcrosstheCape.map.scen
+
+
+running scenario: scenarios/sc1/AcrosstheCape.map.scen
+
+running scenario: scenarios/sc1/AcrosstheCape.map.scen
+
+running scenario: scenarios/sc1/AcrosstheCape.map.scen
+
+running scenario: scenarios/sc1/AcrosstheCape.map.scen
+
+
+
+running scenario: scenarios/sc1/AcrosstheCape.map.scen
+
+running scenario: scenarios/sc1/AcrosstheCape.map.scen
+
+
+
+running scenario: scenarios/sc1/AcrosstheCape.map.scen
+running scenario: scenarios/sc1/AcrosstheCape.map.scen
+
+
+running scenario: scenarios/sc1/AcrosstheCape.map.scen
+
+
+running scenario: scenarios/sc1/Aftershock.map.scen
+
+
+running scenario: scenarios/sc1/Archipelago.map.scen
+
+
+running scenario: scenarios/sc1/ArcticStation.map.scen
+
+
+running scenario: scenarios/sc1/Aurora.map.scen
+
+
+running scenario: scenarios/sc1/Backwoods.map.scen
+
+
+running scenario: scenarios/sc1/BigGameHunters.map.scen
+
+
+running scenario: scenarios/sc1/BlackLotus.map.scen
+
+
+running scenario: scenarios/sc1/BlastFurnace.map.scen
+
+
+running scenario: scenarios/sc1/BrokenSteppes.map.scen
+
+
+running scenario: scenarios/sc1/Brushfire.map.scen
+
+
+running scenario: scenarios/sc1/Caldera.map.scen
+
+
+running scenario: scenarios/sc1/CatwalkAlley.map.scen
+
+
+running scenario: scenarios/sc1/Cauldron.map.scen
+
+
+running scenario: scenarios/sc1/CrashSites.map.scen
+
+
+running scenario: scenarios/sc1/CrescentMoon.map.scen
+
+
+running scenario: scenarios/sc1/Crossroads.map.scen
+
+
+running scenario: scenarios/sc1/DarkContinent.map.scen
+
+
+running scenario: scenarios/sc1/Desolation.map.scen
+
+
+running scenario: scenarios/sc1/EbonLakes.map.scen
+
+
+running scenario: scenarios/sc1/Elderlands.map.scen
+
+
+running scenario: scenarios/sc1/Enigma.map.scen
+
+
+running scenario: scenarios/sc1/Entanglement.map.scen
+
+
+running scenario: scenarios/sc1/Eruption.map.scen
+
+
+running scenario: scenarios/sc1/Expedition.map.scen
+
+
+running scenario: scenarios/sc1/FireWalker.map.scen
+
+
+running scenario: scenarios/sc1/FloodedPlains.map.scen
+
+
+running scenario: scenarios/sc1/GhostTown.map.scen
+
+
+running scenario: scenarios/sc1/GladiatorPits.map.scen
+
+
+running scenario: scenarios/sc1/GreenerPastures.map.scen
+
+
+running scenario: scenarios/sc1/Hellfire.map.scen
+
+
+running scenario: scenarios/bg2/AR0011SR.map.scen
+
+
+running scenario: scenarios/bg2/AR0012SR.map.scen
+
+
+running scenario: scenarios/bg2/AR0016SR.map.scen
+
+
+running scenario: scenarios/bg2/AR0017SR.map.scen
+
+
+running scenario: scenarios/bg2/AR0018SR.map.scen
+
+
+running scenario: scenarios/bg2/AR0020SR.map.scen
+
+
+running scenario: scenarios/bg2/AR0041SR.map.scen
+
+
+running scenario: scenarios/bg2/AR0042SR.map.scen
+
+running scenario: scenarios/sc1/AcrosstheCape.map.scen
+
+
+running scenario: scenarios/sc1/Aftershock.map.scen
+
+
+running scenario: scenarios/sc1/Archipelago.map.scen
+
+
+running scenario: scenarios/sc1/ArcticStation.map.scen
+
+
+running scenario: scenarios/sc1/Aurora.map.scen
+
+
+running scenario: scenarios/sc1/Backwoods.map.scen
+
+
+running scenario: scenarios/sc1/BigGameHunters.map.scen
+
+
+running scenario: scenarios/sc1/BlackLotus.map.scen
+
+
+running scenario: scenarios/sc1/BlastFurnace.map.scen
+
+
+running scenario: scenarios/sc1/BrokenSteppes.map.scen
+
+
+running scenario: scenarios/sc1/Brushfire.map.scen
+
+
+running scenario: scenarios/sc1/Caldera.map.scen
+
+
+running scenario: scenarios/sc1/CatwalkAlley.map.scen
+
+
+running scenario: scenarios/sc1/Cauldron.map.scen
+
+
+running scenario: scenarios/sc1/CrashSites.map.scen
+
+
+running scenario: scenarios/sc1/CrescentMoon.map.scen
+
+
+running scenario: scenarios/sc1/Crossroads.map.scen
+
+
+running scenario: scenarios/sc1/DarkContinent.map.scen
+
+
+running scenario: scenarios/sc1/Desolation.map.scen
+
+
+running scenario: scenarios/sc1/EbonLakes.map.scen
+
+
+running scenario: scenarios/sc1/Elderlands.map.scen
+
+
+running scenario: scenarios/sc1/Enigma.map.scen
+
+
+running scenario: scenarios/sc1/Entanglement.map.scen
+
+
+running scenario: scenarios/sc1/Eruption.map.scen
+
+
+running scenario: scenarios/sc1/Expedition.map.scen
+
+
+running scenario: scenarios/sc1/FireWalker.map.scen
+
+
+running scenario: scenarios/sc1/FloodedPlains.map.scen
+
+
+running scenario: scenarios/sc1/GhostTown.map.scen
+
+
+running scenario: scenarios/sc1/GladiatorPits.map.scen
+
+
+running scenario: scenarios/sc1/GreenerPastures.map.scen
+
+
+running scenario: scenarios/sc1/Hellfire.map.scen
+
+
+running scenario: scenarios/bg2/AR0011SR.map.scen
+
+
+running scenario: scenarios/bg2/AR0012SR.map.scen
+
+
+running scenario: scenarios/bg2/AR0016SR.map.scen
+
+
+running scenario: scenarios/bg2/AR0017SR.map.scen
+
+
+running scenario: scenarios/bg2/AR0018SR.map.scen
+
+
+running scenario: scenarios/bg2/AR0020SR.map.scen
+
+
+running scenario: scenarios/bg2/AR0041SR.map.scen
+
+
+running scenario: scenarios/bg2/AR0042SR.map.scen
+
+
+running scenario: scenarios/bg2/AR0043SR.map.scen
+
+
+running scenario: scenarios/bg2/AR0044SR.map.scen
+
+
+running scenario: scenarios/bg2/AR0045SR.map.scen
+
+
+running scenario: scenarios/bg2/AR0046SR.map.scen
+
+
+running scenario: scenarios/bg2/AR0070SR.map.scen
+
+
+running scenario: scenarios/bg2/AR0071SR.map.scen
+
+
+running scenario: scenarios/bg2/AR0072SR.map.scen
+
+
+running scenario: scenarios/bg2/AR0201SR.map.scen
+
+
+running scenario: scenarios/bg2/AR0202SR.map.scen
+
+
+running scenario: scenarios/bg2/AR0203SR.map.scen
+
+
+running scenario: scenarios/bg2/AR0205SR.map.scen
+
+
+running scenario: scenarios/bg2/AR0206SR.map.scen
+
+
+running scenario: scenarios/bg2/AR0300SR.map.scen
+
+
+running scenario: scenarios/bg2/AR0302SR.map.scen
+
+
+running scenario: scenarios/bg2/AR0304SR.map.scen
+
+
+running scenario: scenarios/bg2/AR0306SR.map.scen
+
+
+running scenario: scenarios/bg2/AR0308SR.map.scen
+
+
+running scenario: scenarios/bg2/AR0400SR.map.scen
+
+
+running scenario: scenarios/bg2/AR0404SR.map.scen
+
+
+running scenario: scenarios/bg2/AR0405SR.map.scen
+
+
+running scenario: scenarios/bg2/AR0406SR.map.scen
+
+
+running scenario: scenarios/bg2/AR0412SR.map.scen
+
+
+running scenario: scenarios/bg2/AR0418SR.map.scen
+
+
+running scenario: scenarios/bg2/AR0500SR.map.scen
+
+
+running scenario: scenarios/bg2/AR0526SR.map.scen
+
+
+running scenario: scenarios/bg2/AR0600SR.map.scen
+
+
+running scenario: scenarios/bg2/AR0602SR.map.scen
+
+
+running scenario: scenarios/bg2/AR0605SR.map.scen
+
+
+running scenario: scenarios/bg2/AR0700SR.map.scen
+
+
+running scenario: scenarios/bg2/AR0711SR.map.scen
+
+
+running scenario: scenarios/sc1/Archipelago.map.scen
+
+
+running scenario: scenarios/sc1/Aurora.map.scen
+
+
+running scenario: scenarios/sc1/Caldera.map.scen
+
+
+running scenario: scenarios/sc1/CrashSites.map.scen
+
+
+running scenario: scenarios/sc1/CrescentMoon.map.scen
+
+
+running scenario: scenarios/sc1/Entanglement.map.scen
+
+
+running scenario: scenarios/sc1/Expedition.map.scen
+
+
+running scenario: scenarios/sc1/GhostTown.map.scen
+
+
+running scenario: scenarios/sc1/GreenerPastures.map.scen
+
