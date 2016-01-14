@@ -22,7 +22,7 @@ Makefile
 *.lo
 
 # Log files
-*.log
+#*.log
 
 # Object files
 *.elf
