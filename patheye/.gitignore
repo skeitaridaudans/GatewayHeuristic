@@ -1,0 +1,49 @@
+# CMake
+build/
+cmake_install.cmake
+CMakeCache.txt
+CMakeFiles
+CTestTestfile.cmake
+install_manifest.txt
+Makefile
+
+# Executables
+*.app
+*.exe
+*.hex
+*.i*86
+*.out
+*.x86_64
+
+# Libraries
+*.a
+*.la
+*.lib
+*.lo
+
+# Log files
+*.log
+
+# Object files
+*.elf
+*.ko
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Shared objects
+*.dll
+*.dylib
+*.so
+*.so.*
+
+# Vim
+[._]*.s[a-w][a-z]
+[._]s[a-w][a-z]
+*.un~
+Session.vim
+.netrwhist
+*~
